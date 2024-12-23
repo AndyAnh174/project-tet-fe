@@ -1,0 +1,178 @@
+[
+    {
+      "shortName": "VCB",
+      "fullName": "Ngân hàng TMCP Ngoại Thương Việt Nam"
+    },
+    {
+      "shortName": "BIDV",
+      "fullName": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam"
+    },
+    {
+      "shortName": "VietinBank",
+      "fullName": "Ngân hàng TMCP Công Thương Việt Nam"
+    },
+    {
+      "shortName": "Agribank",
+      "fullName": "Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam"
+    },
+    {
+      "shortName": "ACB",
+      "fullName": "Ngân hàng TMCP Á Châu"
+    },
+    {
+      "shortName": "Techcombank",
+      "fullName": "Ngân hàng TMCP Kỹ Thương Việt Nam"
+    },
+    {
+      "shortName": "MB",
+      "fullName": "Ngân hàng TMCP Quân Đội"
+    },
+    {
+      "shortName": "VPBank",
+      "fullName": "Ngân hàng TMCP Việt Nam Thịnh Vượng"
+    },
+    {
+      "shortName": "TPBank",
+      "fullName": "Ngân hàng TMCP Tiên Phong"
+    },
+    {
+      "shortName": "SHB",
+      "fullName": "Ngân hàng TMCP Sài Gòn - Hà Nội"
+    },
+    {
+      "shortName": "Sacombank",
+      "fullName": "Ngân hàng TMCP Sài Gòn Thương Tín"
+    },
+    {
+      "shortName": "VIB",
+      "fullName": "Ngân hàng TMCP Quốc tế Việt Nam"
+    },
+    {
+      "shortName": "HDBank",
+      "fullName": "Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh"
+    },
+    {
+      "shortName": "LienVietPostBank",
+      "fullName": "Ngân hàng TMCP Bưu Điện Liên Việt"
+    },
+    {
+      "shortName": "MSB",
+      "fullName": "Ngân hàng TMCP Hàng Hải Việt Nam"
+    },
+    {
+      "shortName": "SeABank",
+      "fullName": "Ngân hàng TMCP Đông Nam Á"
+    },
+    {
+      "shortName": "OCB",
+      "fullName": "Ngân hàng TMCP Phương Đông"
+    },
+    {
+      "shortName": "Eximbank",
+      "fullName": "Ngân hàng TMCP Xuất Nhập Khẩu Việt Nam"
+    },
+    {
+      "shortName": "SCB",
+      "fullName": "Ngân hàng TMCP Sài Gòn"
+    },
+    {
+      "shortName": "PVcomBank",
+      "fullName": "Ngân hàng TMCP Đại Chúng Việt Nam"
+    },
+    {
+      "shortName": "Bac A Bank",
+      "fullName": "Ngân hàng TMCP Bắc Á"
+    },
+    {
+      "shortName": "DongA Bank",
+      "fullName": "Ngân hàng TMCP Đông Á"
+    },
+    {
+      "shortName": "Nam A Bank",
+      "fullName": "Ngân hàng TMCP Nam Á"
+    },
+    {
+      "shortName": "Viet A Bank",
+      "fullName": "Ngân hàng TMCP Việt Á"
+    },
+    {
+      "shortName": "Saigonbank",
+      "fullName": "Ngân hàng TMCP Sài Gòn Công Thương"
+    },
+    {
+      "shortName": "PG Bank",
+      "fullName": "Ngân hàng TMCP Xăng dầu Petrolimex"
+    },
+    {
+      "shortName": "Kienlongbank",
+      "fullName": "Ngân hàng TMCP Kiên Long"
+    },
+    {
+      "shortName": "Viet Capital Bank",
+      "fullName": "Ngân hàng TMCP Bản Việt"
+    },
+    {
+      "shortName": "NCB",
+      "fullName": "Ngân hàng TMCP Quốc Dân"
+    },
+    {
+      "shortName": "OceanBank",
+      "fullName": "Ngân hàng Thương mại TNHH MTV Đại Dương"
+    },
+    {
+      "shortName": "CBBank",
+      "fullName": "Ngân hàng Thương mại TNHH MTV Xây dựng Việt Nam"
+    },
+    {
+      "shortName": "GPBank",
+      "fullName": "Ngân hàng Thương mại TNHH MTV Dầu khí Toàn cầu"
+    },
+    {
+      "shortName": "Public Bank",
+      "fullName": "Ngân hàng TNHH MTV Public Việt Nam"
+    },
+    {
+      "shortName": "Indovina Bank",
+      "fullName": "Ngân hàng TNHH Indovina"
+    },
+    {
+      "shortName": "Shinhan Bank",
+      "fullName": "Ngân hàng TNHH MTV Shinhan Việt Nam"
+    },
+    {
+      "shortName": "Woori Bank",
+      "fullName": "Ngân hàng TNHH MTV Woori Việt Nam"
+    },
+    {
+      "shortName": "HSBC",
+      "fullName": "Ngân hàng TNHH MTV HSBC (Việt Nam)"
+    },
+    {
+      "shortName": "ANZ",
+      "fullName": "Ngân hàng TNHH MTV ANZ (Việt Nam)"
+    },
+    {
+      "shortName": "Standard Chartered",
+      "fullName": "Ngân hàng TNHH MTV Standard Chartered (Việt Nam)"
+    },
+    {
+      "shortName": "UOB",
+      "fullName": "Ngân hàng TNHH MTV United Overseas Bank (Việt Nam)"
+    },
+    {
+      "shortName": "CIMB",
+      "fullName": "Ngân hàng TNHH MTV CIMB Việt Nam"
+    },
+    {
+      "shortName": "Hong Leong Bank",
+      "fullName": "Ngân hàng TNHH MTV Hong Leong Việt Nam"
+    },
+    {
+      "shortName": "VBSP",
+      "fullName": "Ngân hàng Chính sách Xã hội"
+    },
+    {
+      "shortName": "VDB",
+      "fullName": "Ngân hàng Phát triển Việt Nam"
+    }
+  ]

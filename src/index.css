@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Great+Vibes&family=Lobster&family=Pacifico&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Montserrat', sans-serif;
+    -webkit-tap-highlight-color: transparent;
+    height: -webkit-fill-available;
+  }
+
+  h1, h2, h3, .font-dancing {
+    font-family: 'Dancing Script', cursive;
+  }
+
+  body {
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
+    overflow-x: hidden;
+    overscroll-behavior-y: none;
+  }
+
+  @media screen and (max-width: 768px) {
+    html {
+      font-size: 14px;
+    }
+  }
+
+  input, select, textarea {
+    font-size: 16px !important;
+  }
+}
+
+@layer utilities {
+  @keyframes fall {
+    0% {
+      transform: translateY(0) rotate(0deg);
+      opacity: 0.8;
+    }
+    100% {
+      transform: translateY(100vh) rotate(360deg);
+      opacity: 0;
+    }
+  }
+
+  @keyframes sway {
+    0% {
+      transform: translateX(0) rotate(0deg);
+    }
+    100% {
+      transform: translateX(30px) rotate(20deg);
+    }
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.5s ease-out forwards;
+  }
+
+  .flower-decoration {
+    @apply hidden lg:block absolute w-48 h-auto;
+    pointer-events: none;
+  }
+
+  .flower-decoration img {
+    @apply w-full h-auto object-contain;
+    filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1));
+  }
+
+  .flower-left {
+    @apply left-0 top-1/4 -translate-y-1/2;
+    animation: float 6s ease-in-out infinite;
+  }
+
+  .flower-right {
+    @apply right-0 top-1/4 -translate-y-1/2;
+    animation: float 6s ease-in-out infinite;
+    animation-delay: 1s;
+  }
+
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0) rotate(var(--rotate));
+    }
+    50% {
+      transform: translateY(-10px) rotate(var(--rotate));
+    }
+  }
+
+  .envelope-bounce {
+    animation: bounce 3s infinite ease-in-out;
+    transform-origin: center;
+  }
+
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .animate-fade-in {
+    animation: fade-in 0.5s ease-in-out;
+  }
+}
+
+:root {
+  --vh: 1vh;
+}
+
+/* Styles cho ReactQuill */
+.ql-editor {
+  min-height: 120px;
+  font-size: 16px;
+  background-color: white;
+  color: black !important;
+}
+
+.ql-container.ql-snow {
+  border: none;
+}
+
+.ql-toolbar.ql-snow {
+  border: none;
+  border-bottom: 1px solid #e5e7eb;
+}

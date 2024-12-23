@@ -1,0 +1,92 @@
+{
+  "categories": [
+    {
+      "id": "khai-vi",
+      "name": "Món khai vị",
+      "description": "Các món ăn khai vị ngày Tết",
+      "image": "/images/recipes/categories/khai-vi.jpg"
+    },
+    {
+      "id": "mon-chinh",
+      "name": "Món chính",
+      "description": "Các món ăn chính trong bữa cơm Tết",
+      "image": "/images/recipes/categories/mon-chinh.jpg"
+    },
+    {
+      "id": "trang-mieng",
+      "name": "Món tráng miệng",
+      "description": "Các món tráng miệng và bánh kẹo ngày Tết",
+      "image": "/images/recipes/categories/trang-mieng.jpg"
+    },
+    {
+      "id": "dac-trung-mien-bac",
+      "name": "Đặc trưng miền Bắc",
+      "description": "Món ăn đặc trưng Tết miền Bắc",
+      "image": "/images/recipes/categories/mien-bac.jpg"
+    },
+    {
+      "id": "dac-trung-mien-trung",
+      "name": "Đặc trưng miền Trung",
+      "description": "Món ăn đặc trưng Tết miền Trung",
+      "image": "/images/recipes/categories/mien-trung.jpg"
+    },
+    {
+      "id": "dac-trung-mien-nam",
+      "name": "Đặc trưng miền Nam",
+      "description": "Món ăn đặc trưng Tết miền Nam",
+      "image": "/images/recipes/categories/mien-nam.jpg"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "banh-chung",
+      "name": "Bánh chưng",
+      "description": "Bánh chưng là món ăn truyền thống không thể thiếu trong dịp Tết Nguyên đán",
+      "image": "/images/recipes/banh-chung.jpg",
+      "categories": ["mon-chinh", "dac-trung-mien-bac"],
+      "difficulty": "Khó",
+      "prepTime": "30 phút",
+      "cookTime": "10-12 tiếng",
+      "servings": "4-6 người",
+      "ingredients": [
+        {
+          "name": "Gạo nếp",
+          "amount": "1",
+          "unit": "kg"
+        },
+        {
+          "name": "Đậu xanh đã xát vỏ",
+          "amount": "500",
+          "unit": "gram"
+        },
+        {
+          "name": "Thịt lợn ba chỉ",
+          "amount": "500",
+          "unit": "gram"
+        }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "description": "Ngâm gạo nếp với nước và một chút muối trong 4-6 tiếng",
+          "image": "/images/recipes/steps/banh-chung-1.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Ngâm đậu xanh trong 2 tiếng, sau đó hấp chín và nghiền nhuyễn",
+          "image": "/images/recipes/steps/banh-chung-2.jpg"
+        },
+        {
+            "step": 3,
+            "description": "Ngâm đậu xanh trong 2 tiếng, sau đó hấp chín và nghiền nhuyễn",
+            "image": "/images/recipes/steps/banh-chung-2.jpg"
+          }
+      ],
+      "video": "https://www.youtube.com/embed/xxxxx",
+      "tips": [
+        "Nên chọn gạo nếp cái hoa vàng để bánh được dẻo và thơm",
+        "Lá dong phải được rửa sạch và lau khô trước khi gói"
+      ]
+    }
+  ]
+} 
