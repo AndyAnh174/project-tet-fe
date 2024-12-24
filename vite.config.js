@@ -11,20 +11,28 @@ export default defineConfig({
     },
   },
   build: {
+    outDir: 'dist',
     rollupOptions: {
       input: {
         main: path.resolve(__dirname, 'index.html'),
       },
-      onwarn(warning, warn) {
-        // Bỏ qua một số cảnh báo nếu cần
-        if (warning.code === 'UNUSED_EXTERNAL_IMPORT') return
+      output: {
+        chunkFileNames: '[name]-[hash].js',
+        entryFileNames: '[name]-[hash].js',
+        assetFileNames: ({name}) => {
+          if (/\.(gif|jpe?g|png|svg)$/.test(name ?? '')) {
+            return 'assets/images/[name]-[hash][extname]'
+          }
+          if (/\.css$/.test(name ?? '')) {
+            return 'assets/css/[name]-[hash][extname]'
+          }
+          return 'assets/[name]-[hash][extname]'
+        }
       }
     }
   },
   server: {
     host: true
   },
-  optimizeDeps: {
-    include: ['react', 'react-dom']
-  }
+  base: '/'
 })
