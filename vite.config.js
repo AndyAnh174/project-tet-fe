@@ -13,6 +13,7 @@ export default defineConfig({
   build: {
     outDir: 'dist',
     rollupOptions: {
+      external: ['marked'],
       input: {
         main: path.resolve(__dirname, 'index.html'),
       },

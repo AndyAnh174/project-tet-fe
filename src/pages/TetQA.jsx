@@ -3,7 +3,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 import Loading from '../components/Loading';
 import hoaDaoImg from '../assets/tree/hoa-dao.png';
 import hoaMaiImg from '../assets/tree/hoa-mai.png';
-import { marked } from 'marked';
+import * as marked from 'marked';
 
 const TetQA = () => {
   const [question, setQuestion] = useState('');
