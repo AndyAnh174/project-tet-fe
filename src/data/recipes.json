@@ -10,7 +10,7 @@
       "id": "mon-chinh",
       "name": "Món chính",
       "description": "Các món ăn chính trong bữa cơm Tết",
-      "image": "/images/recipes/categories/mon-chinh.jpg"
+      "image": "https://cdn.popsww.com/blog-kids/sites/3/2022/12/mon-an-ngay-tet.jpg"
     },
     {
       "id": "trang-mieng",
@@ -42,7 +42,7 @@
       "id": "banh-chung",
       "name": "Bánh chưng",
       "description": "Bánh chưng là món ăn truyền thống không thể thiếu trong dịp Tết Nguyên đán",
-      "image": "/images/recipes/banh-chung.jpg",
+      "image": "https://file1.dangcongsan.vn/data/0/images/2021/02/08/duongntcd/13-chung-tet-td.jpg",
       "categories": ["mon-chinh", "dac-trung-mien-bac"],
       "difficulty": "Khó",
       "prepTime": "30 phút",
@@ -53,6 +53,106 @@
           "name": "Gạo nếp",
           "amount": "1",
           "unit": "kg"
+        },
+        {
+          "name": "Đậu xanh đã xát vỏ",
+          "amount": "500",
+          "unit": "gram"
+        },
+        {
+          "name": "Thịt lợn ba chỉ",
+          "amount": "500",
+          "unit": "gram"
+        }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "description": "Ngâm gạo nếp với nước và một chút muối trong 4-6 tiếng",
+          "image": "/images/recipes/steps/banh-chung-1.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Ngâm đậu xanh trong 2 tiếng, sau đó hấp chín và nghiền nhuyễn",
+          "image": "/images/recipes/steps/banh-chung-2.jpg"
+        },
+        {
+            "step": 3,
+            "description": "Ngâm đậu xanh trong 2 tiếng, sau đó hấp chín và nghiền nhuyễn",
+            "image": "/images/recipes/steps/banh-chung-2.jpg"
+          }
+      ],
+      "video": "https://www.youtube.com/embed/xxxxx",
+      "tips": [
+        "Nên chọn gạo nếp cái hoa vàng để bánh được dẻo và thơm",
+        "Lá dong phải được rửa sạch và lau khô trước khi gói"
+      ]
+    },
+    {
+      "id": "banh-tet",
+      "name": "Bánh tét",
+      "description": "Bánh tét là món ăn truyền thống không thể thiếu trong dịp Tết Nguyên đán",
+      "image": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/ga-nau-bia-thumbnail-2.jpg",
+      "categories": ["trang-mieng", "dac-trung-mien-nam"],
+      "difficulty": "Khó",
+      "prepTime": "30 phút",
+      "cookTime": "10-12 tiếng",
+      "servings": "2-3 người",
+      "ingredients": [
+        {
+          "name": "Gạo nếp",
+          "amount": "1",
+          "unit": "gram"
+        },
+        {
+          "name": "Đậu xanh đã xát vỏ",
+          "amount": "500",
+          "unit": "gram"
+        },
+        {
+          "name": "Thịt lợn ba chỉ",
+          "amount": "500",
+          "unit": "gram"
+        }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "description": "Ngâm gạo nếp với nước và một chút muối trong 4-6 tiếng",
+          "image": "/images/recipes/steps/banh-chung-1.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Ngâm đậu xanh trong 2 tiếng, sau đó hấp chín và nghiền nhuyễn",
+          "image": "/images/recipes/steps/banh-chung-2.jpg"
+        },
+        {
+            "step": 3,
+            "description": "Ngâm đậu xanh trong 2 tiếng, sau đó hấp chín và nghiền nhuyễn",
+            "image": "/images/recipes/steps/banh-chung-2.jpg"
+          }
+      ],
+      "video": "https://www.youtube.com/embed/xxxxx",
+      "tips": [
+        "Nên chọn gạo nếp cái hoa vàng để bánh được dẻo và thơm",
+        "Lá dong phải được rửa sạch và lau khô trước khi gói"
+      ]
+    },
+    {
+      "id": "banh-tet",
+      "name": "Bánh tét",
+      "description": "Bánh tét là món ăn truyền thống không thể thiếu trong dịp Tết Nguyên đán",
+      "image": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/ga-nau-bia-thumbnail-2.jpg",
+      "categories": ["trang-mieng", "dac-trung-mien-nam"],
+      "difficulty": "Khó",
+      "prepTime": "30 phút",
+      "cookTime": "10-12 tiếng",
+      "servings": "2-3 người",
+      "ingredients": [
+        {
+          "name": "Gạo nếp",
+          "amount": "1",
+          "unit": "gram"
         },
         {
           "name": "Đậu xanh đã xát vỏ",

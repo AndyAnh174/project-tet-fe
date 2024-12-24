@@ -71,16 +71,16 @@ function TetCountdown() {
       <>
         {isPlaying && <Fireworks />}
         <div className="fixed inset-0 bg-black/70 z-40" />
-        <div className="fixed inset-0 flex items-center justify-center z-50">
+        <div className="fixed inset-0 flex items-center justify-center z-50 px-4">
           <div className="text-center">
             <h1 
-              className="text-6xl md:text-8xl font-dancing text-yellow-400 mb-8"
+              className="text-4xl sm:text-6xl md:text-8xl font-dancing text-yellow-400 mb-4 sm:mb-8"
               style={{ textShadow: '0 0 10px rgba(0,0,0,0.5), 0 0 20px rgba(255,200,0,0.3)' }}
             >
               🎊 Chúc Mừng Năm Mới 2025 🎊
             </h1>
             <p 
-              className="text-2xl md:text-4xl text-yellow-300 font-dancing mb-8"
+              className="text-xl sm:text-2xl md:text-4xl text-yellow-300 font-dancing mb-6 sm:mb-8"
               style={{ textShadow: '0 0 8px rgba(0,0,0,0.5)' }}
             >
               Năm Giáp Thìn
@@ -88,7 +88,7 @@ function TetCountdown() {
             <button
               onClick={handleFireworks}
               disabled={isPlaying}
-              className={`px-8 py-4 rounded-full text-xl font-dancing 
+              className={`px-6 sm:px-8 py-3 sm:py-4 rounded-full text-lg sm:text-xl font-dancing 
                 ${isPlaying 
                   ? 'bg-gray-400 cursor-not-allowed' 
                   : 'bg-red-600 hover:bg-red-700 animate-pulse'} 
@@ -103,26 +103,42 @@ function TetCountdown() {
   }
 
   return (
-    <div className="bg-red-800/10 p-8 rounded-2xl shadow-lg border-2 border-red-800/20">
-      <h2 className="text-3xl font-bold text-red-800 mb-6 text-center font-dancing">
+    <div className="bg-red-800/10 p-4 sm:p-8 rounded-2xl shadow-lg border-2 border-red-800/20">
+      <h2 className="text-2xl sm:text-3xl font-bold text-red-800 mb-4 sm:mb-6 text-center font-dancing">
         🎊 Đếm ngược đến Tết Giáp Thìn 2025 🎊
       </h2>
-      <div className="grid grid-cols-4 gap-4 text-center">
-        <div className="bg-gradient-to-b from-red-700 to-red-800 p-6 rounded-xl shadow-lg border-2 border-yellow-500">
-          <div className="text-5xl font-bold text-yellow-400 font-montserrat">{timeLeft.days}</div>
-          <div className="text-sm text-yellow-300 mt-2 font-medium">Ngày</div>
+      <div className="grid grid-cols-4 gap-2 sm:gap-4 text-center">
+        <div className="bg-gradient-to-b from-red-700 to-red-800 p-2 sm:p-6 rounded-xl shadow-lg border-2 border-yellow-500">
+          <div className="text-2xl sm:text-5xl font-bold text-yellow-400 font-montserrat">
+            {timeLeft.days}
+          </div>
+          <div className="text-xs sm:text-sm text-yellow-300 mt-1 sm:mt-2 font-medium">
+            Ngày
+          </div>
         </div>
-        <div className="bg-gradient-to-b from-red-700 to-red-800 p-6 rounded-xl shadow-lg border-2 border-yellow-500">
-          <div className="text-5xl font-bold text-yellow-400 font-montserrat">{timeLeft.hours}</div>
-          <div className="text-sm text-yellow-300 mt-2 font-medium">Giờ</div>
+        <div className="bg-gradient-to-b from-red-700 to-red-800 p-2 sm:p-6 rounded-xl shadow-lg border-2 border-yellow-500">
+          <div className="text-2xl sm:text-5xl font-bold text-yellow-400 font-montserrat">
+            {timeLeft.hours}
+          </div>
+          <div className="text-xs sm:text-sm text-yellow-300 mt-1 sm:mt-2 font-medium">
+            Giờ
+          </div>
         </div>
-        <div className="bg-gradient-to-b from-red-700 to-red-800 p-6 rounded-xl shadow-lg border-2 border-yellow-500">
-          <div className="text-5xl font-bold text-yellow-400 font-montserrat">{timeLeft.minutes}</div>
-          <div className="text-sm text-yellow-300 mt-2 font-medium">Phút</div>
+        <div className="bg-gradient-to-b from-red-700 to-red-800 p-2 sm:p-6 rounded-xl shadow-lg border-2 border-yellow-500">
+          <div className="text-2xl sm:text-5xl font-bold text-yellow-400 font-montserrat">
+            {timeLeft.minutes}
+          </div>
+          <div className="text-xs sm:text-sm text-yellow-300 mt-1 sm:mt-2 font-medium">
+            Phút
+          </div>
         </div>
-        <div className="bg-gradient-to-b from-red-700 to-red-800 p-6 rounded-xl shadow-lg border-2 border-yellow-500">
-          <div className="text-5xl font-bold text-yellow-400 font-montserrat">{timeLeft.seconds}</div>
-          <div className="text-sm text-yellow-300 mt-2 font-medium">Giây</div>
+        <div className="bg-gradient-to-b from-red-700 to-red-800 p-2 sm:p-6 rounded-xl shadow-lg border-2 border-yellow-500">
+          <div className="text-2xl sm:text-5xl font-bold text-yellow-400 font-montserrat">
+            {timeLeft.seconds}
+          </div>
+          <div className="text-xs sm:text-sm text-yellow-300 mt-1 sm:mt-2 font-medium">
+            Giây
+          </div>
         </div>
       </div>
     </div>

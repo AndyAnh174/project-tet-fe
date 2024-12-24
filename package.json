@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
     "@google/generative-ai": "^0.21.0",
+    "@mantine/core": "^7.15.2",
+    "@mantine/hooks": "^7.15.2",
     "antd": "^5.22.5",
     "axios": "^1.7.9",
     "daisyui": "^4.12.22",

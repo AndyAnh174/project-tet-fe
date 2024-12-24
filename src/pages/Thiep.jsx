@@ -27,7 +27,6 @@ const Thiep = () => {
     { id: 'family', name: 'Gia đình' },
     { id: 'friend', name: 'Bạn bè' },
     { id: 'business', name: 'Công việc' },
-    { id: 'love', name: 'Tình yêu' },
   ];
 
   return (

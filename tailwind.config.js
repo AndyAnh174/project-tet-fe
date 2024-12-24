@@ -20,6 +20,7 @@ module.exports = {
       animation: {
         'fade-in': 'fadeIn 0.5s ease-out forwards',
         'float': 'float 6s ease-in-out infinite',
+        wiggle: 'wiggle 1s ease-in-out infinite',
       },
       keyframes: {
         fadeIn: {
@@ -29,6 +30,10 @@ module.exports = {
         float: {
           '0%, 100%': { transform: 'translateY(0)' },
           '50%': { transform: 'translateY(-20px)' },
+        },
+        wiggle: {
+          '0%, 100%': { transform: 'rotate(-3deg)' },
+          '50%': { transform: 'rotate(3deg)' },
         },
       },
     },
