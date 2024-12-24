@@ -139,54 +139,495 @@
       ]
     },
     {
-      "id": "banh-tet",
-      "name": "Bánh tét",
-      "description": "Bánh tét là món ăn truyền thống không thể thiếu trong dịp Tết Nguyên đán",
-      "image": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/ga-nau-bia-thumbnail-2.jpg",
-      "categories": ["trang-mieng", "dac-trung-mien-nam"],
-      "difficulty": "Khó",
+      "id": "mon-chinh",
+      "name": "Thịt kho hột vịt",
+      "description": "Đây là món ăn không thể thiếu trong cỗ Tết của người dân Nam Bộ và miền Tây. Thịt vuông kết hợp trứng tròn biểu tượng cho âm dương hài hòa, năm mới đủ đầy sung túc.",
+      "image": "https://i.ytimg.com/vi/-cRVMoTZboE/maxresdefault.jpg",
+      "categories":["mon-chinh","dac-trung-mien-nam"],
+      "difficulty": "Trung bình",
       "prepTime": "30 phút",
-      "cookTime": "10-12 tiếng",
-      "servings": "2-3 người",
+      "cookTime": "1-2 tiếng ( có thể hơn )",
+      "servings": "tùy vào số lượng mà có thể phục vụ nhiều người",
       "ingredients": [
-        {
-          "name": "Gạo nếp",
-          "amount": "1",
-          "unit": "gram"
-        },
-        {
-          "name": "Đậu xanh đã xát vỏ",
-          "amount": "500",
-          "unit": "gram"
-        },
-        {
-          "name": "Thịt lợn ba chỉ",
-          "amount": "500",
-          "unit": "gram"
-        }
-      ],
-      "steps": [
-        {
-          "step": 1,
-          "description": "Ngâm gạo nếp với nước và một chút muối trong 4-6 tiếng",
-          "image": "/images/recipes/steps/banh-chung-1.jpg"
-        },
-        {
-          "step": 2,
-          "description": "Ngâm đậu xanh trong 2 tiếng, sau đó hấp chín và nghiền nhuyễn",
-          "image": "/images/recipes/steps/banh-chung-2.jpg"
-        },
-        {
-            "step": 3,
-            "description": "Ngâm đậu xanh trong 2 tiếng, sau đó hấp chín và nghiền nhuyễn",
-            "image": "/images/recipes/steps/banh-chung-2.jpg"
+          {
+            "name": "Thịt heo(ba chỉ hoặc nạc vai)",
+            "amount": "500",
+            "unit": "gram"
+          },
+          {
+            "name": "Nước dừa tươi",
+            "amount": "500",
+            "unit": "ml"
+          },
+          {
+            "name": "Nước dừa tươi",
+            "amount": "500",
+            "unit": "ml"
+          },
+          {
+            "name": "Tỏi",
+            "amount": "3",
+            "unit": "tép"
+          },
+          {
+            "name": "Gia vị (Đường, nước mắm, muối tiêu, hạt nêm,...)",
+            "amount": "2-3",
+            "unit": "muỗng thìa, cà phê ( tùy vào nêm nếm )"
           }
-      ],
-      "video": "https://www.youtube.com/embed/xxxxx",
-      "tips": [
-        "Nên chọn gạo nếp cái hoa vàng để bánh được dẻo và thơm",
-        "Lá dong phải được rửa sạch và lau khô trước khi gói"
-      ]
-    }
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Để ướp thịt bạn cần sơ chế thịt lợn thật kĩ để loại bỏ mùi hôi.Bạn cho thịt vào tô, thêm 1 thìa cafe hạt tiêu, 2 thìa cafe nước mắm, 1/2 thìa cafe muối, 1 thìa cafe mì chính cùng 1/2 số hành băm nhuyễn. Trộn đều tay và ướp khoảng 30 phút cho thấm.",
+            "image": "https://giadinh.tv/wp-content/uploads/2019/04/uop-thit-kho-hot-vit.jpg"
+          },
+          {
+            "step": 2,
+            "description": "Trứng vịt bạn đem luộc chín. Vớt trứng ra tô nước lạnh cho dễ bóc vỏ. Lần lượt bóc hết vỏ trứng rồi bỏ riêng ra bát.Hành khô bạn bóc vỏ, rửa sạch rồi băm nhuyễn.",
+            "image": "https://vietgle.vn/wp-content/uploads/2020/09/cach-luoc-trung-vit-lon-02-1.jpg"
+          },
+          {
+              "step": 3,
+              "description": "Trước tiên bạn cho hành tỏi băm vào nồi, thêm chút dầu phi cho thơm. Từ từ cho phần thịt đã ướp vào xào cho săn lại. Nếu bạn không thích vị ngán của mỡ thịt có thể đổ phần mỡ ra bát.Tiếp đến bạn cho phần nước đường đã thắng hoặc có thể sử dụng nước hàng. Đun sôi rồi hạ lửa nhỏ liu riu và ninh cho thịt nhừ.Bạn có thể nêm nếm thêm chút gia vị muối, bột nêm cùng chút tiêu cho vừa miệng. Ninh khoảng 45 phút thì bạn cho trứng vào, đảo nhẹ tay và tiếp tục ninh. Khi thấy phần thịt mềm nhừ, hỗn hợp sền sệt, trứng và thịt chuyển màu nâu cánh gián thì tắt bếp. Thêm chút hành lá thái nhỏ cho đẹp mắt.",
+              "image": "https://giadinh.tv/wp-content/uploads/2019/04/cach-nau-thit-kho-trung.jpg"
+            }
+        ],
+        "video": "https://www.youtube.com/watch?v=U9HXscF4wz0",
+        "tips": [
+          "Nên mua thịt với phần mỡ nhiều hơn một chút khi nấu nước mỡ chảy ra quyện vào trứng với nước sốt đậm đà hơn. Thịt lợn mua phải thật tươi.",
+          "Trứng vịt bạn nên chọn thật kĩ. Tránh mua những quả trứng mới khi bóc vỏ sẽ bị dính. Tránh mua trứng để lâu đã bị loãng ăn cũng sẽ không ngon. "
+        ]
+      },
+      {
+        "id": "mon-chinh",
+        "name": "Gà luộc",
+        "description": "Gà luộc là món ăn không thể thiếu trong những bữa ăn gia đình, các lễ cúng, dâng hương và đặc biệt là mâm cỗ ngày Tết. ",
+        "image": "https://f.hoatieu.vn/data/image/2021/02/09/bi-quyet-luoc-ga-ngon-ngay-tet-1.jpg",
+        "categories": ["mon-chinh", "dac-trung-mien-bac"],
+        "difficulty": "Dễ",
+        "prepTime": "30 phút",
+        "cookTime": "40-60 phút",
+        "servings": "4-6 người",
+        "ingredients": [
+          {
+            "name": "Gà ta",
+            "amount": "1",
+            "unit": "con"
+          },
+          {
+            "name": "Gừng (đập dập)",
+            "amount": "1",
+            "unit": "củ"
+          },
+          {
+            "name": "Hành lá (đập đập)",
+            "amount": "2-3",
+            "unit": "củ"
+          },
+          {
+            "name": "Muôi",
+            "amount": "1-2",
+            "unit": "thìa canh"
+          },
+          {
+            "name": "Nước",
+            "amount": "Đủ để ngập gà",
+            "unit": ""
+          }
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Gà xát muối cả ngoài da và phía trong, rửa sạch. Nếu bạn muốn thắp hương gà cả con thì trước khi cho gà vào nồi bạn nên định hình gà cho đẹp, dùng lạt buộc cổ giữa hai cánh gà, cổ vươn cao, hai cánh xòe ra, gập đôi chân cài vào trong bụng cho gọn.Cho gà vào nồi sâu lòng sao cho bụng hướng xuống dưới cùng với gừng, hành đập dập và một chút muối, đổ nước ngập gà rồi đặt lên bếp. Cho gà vào nồi ngay từ khi nước còn lạnh giúp cho thịt gà chín dần từ ngoài vào trong, da không bị nứt. Nếu là gà đông để ngăn đá, bạn phải để rã đông hoàn toàn mới cho vào luộc.",
+            "image": "https://f.hoatieu.vn/data/image/2021/02/09/bi-quyet-luoc-ga-ngon-ngay-tet-2.jpg"
+          },
+          {
+            "step": 2,
+            "description": "Khi nước sôi, cho tiết lòng vào nồi và vặn nhỏ lửa trong khoảng 5 phút rồi vặn nhỏ lửa xuống hết cỡ. Sau 5 phút tắt bếp và đậy kín vung trong khoảng 20 phút.Thời gian luộc gà phụ thuộc vào trọng lượng và gà non hay già nhưng trung bình mất khoảng 40 phút.Để kiểm tra xem gà chín chưa, bạn dùng tăm chọc vào phần bắp đùi gà, nếu không ứa nước màu hồng thì gà đã chín, nếu thấy có thì gà chưa chín, cần luộc thêm 5 phút nữa.Sau khi vớt gà ra, bạn thả ngay vào một chậu nước đun sôi để nguội, nước lạnh càng tốt để da gà không bị khô và xỉn màu. Chờ khi gà nguội hẳn mới vớt ra đĩa.Khi gà đã ráo nước, dùng một củ nghệ gọt vỏ rồi giã nát vắt lấy nước trộn với phần nước mỡ gà (phần mỡ gà đã rán) quét một lớp lên da gà. Gà luộc lên sẽ có da màu vàng bóng, căng mượt, trông rất đẹp mắt.",
+            "image": "https://f.hoatieu.vn/data/image/2021/02/09/bi-quyet-luoc-ga-ngon-ngay-tet-1.jpg"
+          }
+        ],
+        "video": "https://www.youtube.com/watch?v=lRyE71l1gtg",
+        "tips": [
+          "Đặt gà lên đĩa to, tháo dây bầy ngay ngắn, tiết, lòng đặt ở dưới bụng, mỏ gà ngậm một bông hồng đỏ, hướng đầu về bát hương."
+        ]
+      },
+      {
+        "id": "khai-vi",
+        "name": "Chả giò",
+        "description": "Chả giò (chả cuốn, chả nem) là món ăn truyền thống của người Việt và được nhiều gia đình yêu thích, nhất là trong các dịp lễ, Tết.",
+        "image": "https://th.bing.com/th/id/OIP.W8gL8zYS7RNKA4VA3cGOGwHaEL?rs=1&pid=ImgDetMain",
+        "categories": ["khai-vi", "dac-trung-mien-bac"],
+        "difficulty": "Trung bình",
+        "prepTime": "30-40 phút (tùy thuộc vào số lượng)",
+        "cookTime": "20-30 phút",
+        "servings": "Phục vụ được cho nhiều người",
+        "ingredients": [
+          {
+            "name": "Thịt heo xay",
+            "amount": "500",
+            "unit": "gram"
+          },
+          {
+            "name": "Tôm tươi",
+            "amount": "200",
+            "unit": "gram"
+          },
+          {
+            "name": "Nấm mèo (mộc nhĩ) (ngâm nước, băm nhỏ)",
+            "amount": "50",
+            "unit": "gram"
+          },
+          {
+            "name": "Miến (ngâm nước, cắt ngắn)",
+            "amount": "50",
+            "unit": "gram"
+          },
+          {
+            "name": "Cà rốt (bào sợi)",
+            "amount": "1",
+            "unit": "củ"
+          },
+          {
+            "name": "Hành tây (băm nhỏ)",
+            "amount": "1",
+            "unit": "củ"
+          },
+          {
+            "name": "Hành tím (băm nhỏ)",
+            "amount": "2",
+            "unit": "củ"
+          }
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Trộn đều thịt heo xay, tôm băm, nấm mèo, miến, cà rốt, hành tây, hành tím, tỏi và trứng gà trong một tô lớn.Thêm muối, tiêu, đường, nước mắm và hạt nêm vào hỗn hợp, trộn đều để các nguyên liệu thấm gia vị.",
+            "image": "https://cdn.tgdd.vn/2021/09/CookRecipe/GalleryStep/cuon-cha-gio-1.jpg"
+          },
+          {
+            "step": 2,
+            "description": "Đặt một miếng bánh tráng lên mặt phẳng, cho một lượng nhân vừa đủ lên bánh tráng. Cuốn chặt tay nhưng không quá chặt để tránh bánh tráng bị rách. Gấp hai đầu bánh tráng lại và cuốn từ từ cho đến hết.",
+            "image": "https://th.bing.com/th/id/OIP._Kl3A8TcN0j4JlJUSAMSHQHaEK?pid=ImgDet&w=474&h=266&rs=1"
+          },
+          {
+            "step": 3,
+            "description": "Đun nóng dầu ăn trong chảo, sau đó thả từng cuốn chả giò vào chiên. Chiên ở lửa vừa để chả giò chín đều và giòn. Khi chả giò có màu vàng đều, vớt ra để ráo dầu.",
+            "image": "https://ngonaz.com/wp-content/uploads/2021/01/cach-lam-cha-gio-1.jpg"
+          }
+        ],
+        "video": "https://www.youtube.com/watch?v=l1dXPUWeZmc",
+        "tips": [
+          "Chả giò chiên xong có thể ăn kèm với rau sống và nước mắm chua ngọt."
+        ]
+      },
+      {
+        "id": "mon-chinh",
+        "name": "Canh khổ qua dồi thịt",
+        "description": "Vào dịp Tết, người ta thường sử dụng khổ qua để nấu món canh khổ qua nhồi thịt, một món ăn truyền thống với ý nghĩa mong muốn mọi điều khó khăn, khổ cực sẽ qua đi trong năm mới.",
+        "image": "https://khaihoanphuquoc.com.vn/wp-content/uploads/2024/02/canh-kho-qua-nhoi-thit-va-ca-thac-lac-recipe-main-photo.jpg",
+        "categories": ["mon-chinh", "dac-trung-mien-trung"],
+        "difficulty": "Trung bình",
+        "prepTime": "30-45 phút",
+        "cookTime": "30 phút",
+        "servings": "4-6 người",
+        "ingredients": [
+          {
+            "name": "Thịt heo xay",
+            "amount": "200",
+            "unit": "gram"
+          },
+          {
+            "name": "Giò sống",
+            "amount": "150",
+            "unit": "gram"
+          },
+          {
+            "name": "Khổ qua",
+            "amount": "4-6",
+            "unit": "trái"
+          },
+          {
+            "name": "Hành lá, ớt, tỏi, nấm mèo, ngò rí, hành tím",
+            "amount": "",
+            "unit": ""
+          },
+          {
+            "name": "Nước mắm, hành tiêu, muối nêm, dầu ăn",
+            "amount": "Nêm nếm theo khẩu vị",
+            "unit": "thìa canh hoặc cà phê"
+          }
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Khổ qua để nguyên trái sau đó rạch một đường giữa trái theo chiều dài, lấy hết phần ruột ra và rửa sạch để ráo nước. Nấm mèo: Rửa sạch và băm nhuyễn. Hành lá: Dùng phần củ hành băm nhuyễn, phần lá để nguyên. Ngò rí và ớt: Rửa sạch rồi cắt khúc. Hành tím và tỏi bóc vỏ, băm nhỏ.",
+            "image": "https://cdn.tgdd.vn/Files/2018/01/28/1062511/cach-lam-canh-kho-qua-nhoi-thit-ngon-ngot-thanh-mat-202208261430173148.jpg"
+          },
+          {
+            "step": 2,
+            "description": "Cho nấm mèo cùng gốc hành lá vào phần thịt heo xay, giò sống, nêm vào 1 muỗng nước mắm, 1 muỗng cà phê bột nêm, 1 ít tiêu, 1 muỗng dầu ăn rồi trộn đều lên, nên trộn thật đều tay. Trộn đến khi cảm thấy phần thịt ba rọi thật mịn là được.",
+            "image": "https://cdn.tgdd.vn/Files/2018/01/28/1062511/cach-lam-canh-kho-qua-nhoi-thit-ngon-ngot-thanh-mat-202208261430407837.jpg"
+          },
+          {
+            "step": 3,
+            "description": "Bạn bắc một nồi nước, trụng sơ khổ qua, vớt ra rồi để ráo. Nên nhồi thật khéo léo và đầy vừa phải sao cho phần miệng trái khổ qua không bị hở quá nhiều.",
+            "image": "https://cdn.tgdd.vn/Files/2018/01/28/1062511/cach-lam-canh-kho-qua-nhoi-thit-ngon-ngot-thanh-mat-202208261431041470.jpg"
+          },
+          {
+            "step": 4,
+            "description": "Cho khoảng 1.5 lít nước lọc vào nồi đun sôi cùng với 1 muỗng cà phê muối, 1 muỗng cà phê hạt nêm và 1 muỗng canh nước mắm. Sau khi nước sôi, bạn cho khổ qua vào nồi và nấu trong khoảng 20 phút. Sau 20 phút, dùng đũa nhỏ xuyên qua trái khổ qua và thấy chúng mềm là được. Cho thêm gia vị, ngò rí, tiêu vào tắt bếp.",
+            "image": "https://cdn.tgdd.vn/Files/2018/01/28/1062511/cach-lam-canh-kho-qua-nhoi-thit-ngon-ngot-thanh-mat-202208261431158859.jpg"
+          }
+        ],
+        "video": "https://www.youtube.com/watch?v=69end7CPzkw",
+        "tips": [
+          "Hãy cạo bỏ thật sạch phần ruột trắng vì đây là bộ phận khiến khổ qua có vị đắng nhiều nhất.",
+          "Sau khi cắt đôi khổ qua, bạn nên ngâm trong nước đá lạnh, đến khi đá tan hết thì vớt ra và sơ chế tiếp sẽ giúp khổ qua bớt đắng.",
+          "Nếu không có thời gian, bạn có thể rửa thật sạch khổ qua dưới vòi nước lạnh 3 - 4 lần cũng có thể giảm vị đắng.",
+          "Càng trộn đều, nhồi đều tay thì phần thịt sẽ ngon hơn."
+        ]
+      },
+      {
+        "id": "trang-mieng",
+        "name": "Chè trôi nước",
+        "description": "Chè trôi nước là một món ăn truyền thống không thể thiếu trong dịp Tết của người Việt Nam, đặc biệt là ở miền Trung. Món chè này có ý nghĩa tượng trưng cho sự đoàn viên, sum vầy và may mắn trong năm mới.",
+        "image": "https://khaihoanphuquoc.com.vn/wp-content/uploads/2024/02/5-cach-nau-che-troi-nuoc-thom-ngon-deo-mem-khong-bi-cung-202205170704184093-e1706883654513.jpg",
+        "categories": ["trang-mieng", "dac-trung-mien-trung"],
+        "difficulty": "Trung bình",
+        "prepTime": "45-60 phút",
+        "cookTime": "30 phút",
+        "servings": "4-6 người tùy theo số lượng bánh",
+        "ingredients": [
+          {
+            "name": "Bột nếp",
+            "amount": "400",
+            "unit": "gram"
+          },
+          {
+            "name": "Đường phèn",
+            "amount": "200",
+            "unit": "gram"
+          },
+          {
+            "name": "Đậu xanh (ngâm nước, hấp chín, giã nhuyễn)",
+            "amount": "100",
+            "unit": "gram"
+          },
+          {
+            "name": "Nước cốt dừa",
+            "amount": "200",
+            "unit": "ml"
+          },
+          {
+            "name": "Gừng (gọt vỏ, thái lát)",
+            "amount": "1",
+            "unit": "củ"
+          },
+          {
+            "name": "Nguyên liệu khác: đường trắng, muối, vừng rang",
+            "amount": "",
+            "unit": ""
+          }
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Cho từ từ nước ấm vào bột nếp và nhồi thành khối bột dẻo mịn. Bạn ủ bột trong 1 tiếng.",
+            "image": "https://th.bing.com/th/id/R.cfa814bcbcf1997f903500d6e4849a15?rik=g%2fbunlZR5E5ynQ&pid=ImgRaw&r=0"
+          },
+          {
+            "step": 2,
+            "description": "Đậu xanh bạn rửa sạch và hấp chín, rồi tán nhuyễn. Sau đó bạn cho đậu lên chảo, thêm đường, muối, nước cốt dừa vào và sên với lửa nhỏ để đậu thấm gia vị. Khi đậu nguội thì bạn vo đậu thành từng viên tròn nhỏ vừa ăn.",
+            "image": "https://digifood.vn/blog/wp-content/uploads/2022/02/cach-lam-banh-troi-nuoc-bang-bot-nep-5-2.jpg"
+          },
+          {
+            "step": 3,
+            "description": "Bạn vo bột nếp lại thành từng viên tròn rồi ấn 1 lỗ ở giữa bằng viên nhân. Bây giờ bạn cho viên nhân vào giữa và nặn cho cho phần bột phủ kín hết phần nhân bên trong.",
+            "image": "https://dienmaysakura.vn/media/news/1204_Cach-lam-banh-troi-tet-han-thuc-5.jpg"
+          },
+          {
+            "step": 4,
+            "description": "Bạn nấu sôi 1 nồi nước và thả các viên bánh trôi vào. Khi bánh nổi lên mặt nước thì vớt ra và cho vào thau nước lạnh. Bạn cho nước, đường thốt nốt, gừng cắt lát, lá dứa và muối vào và nấu cho đường tan. Sau đó bạn vớt các viên bánh trôi cho vào nồi nước đường và nấu với lửa nhỏ trong 10 phút nữa để bánh được ngấm vị ngọt từ đường.",
+            "image": "https://s3-iconicjob-jp.imgix.net/prod/system/blog_articles/3331-thumbnail-image-618b2d5da7365.jpg"
+          },
+          {
+            "step": 5,
+            "description": "Mè bạn rang thơm. Nước cốt dừa bạn cho vào nồi nhỏ và đun cho đến khi sắp sôi thì cho bột bắp, muối vào và khuấy đều cho đến khi hỗn hợp sệt lại là tắt bếp.",
+            "image": "https://s-media-cache-ak0.pinimg.com/736x/13/fb/fb/13fbfb55f9e981211ccba11a8f97904c.jpg"
+          }
+        ],
+        "video": "https://www.youtube.com/watch?v=mNTfg3lTmdQ",
+        "tips": [
+          "Sử dụng bột nếp để chúng ta làm ra được phần vỏ bánh trôi dẻo và dai.",
+          "Khi đậu chín rồi thì bạn dùng muỗng tán nhuyễn như khi nấu xôi vò.",
+          "Sau đó bạn ấn 1 lỗ ở giữa phần bột có kích thước bằng với viên nhân đậu xanh. Bạn cho viên nhân đậu xanh vào lỗ vừa tạo, và khéo léo nặn sao cho phần bột bao kín hết phần nhân đậu như khi nặn bánh nướng, bánh dẻo."
+        ]
+      },
+      {
+        "id": "mon-chinh",
+        "name": "Canh măng nấu xương",
+        "description": "Cũng như những nơi khác, trong thực đơn Tết miền Trung không thể thiếu đi những món canh ấm nóng, và món ăn từ măng khô nấu cùng xương heo là một sự lựa chọn hấp dẫn và đầy ý nghĩa.",
+        "image": "https://winevn.com/wp-content/uploads/2024/12/7-canh-mang-nau-xuong-ngot-thanh-dai-mem-loi-cuon.jpg",
+        "categories": ["mon-chinh", "dac-trung-mien-trung"],
+        "difficulty": "Trung bình",
+        "prepTime": "1 ngày hơn",
+        "cookTime": "60-90 phút",
+        "servings": "6-8 người",
+        "ingredients": [
+          {
+            "name": "Măng khô (ngâm nước qua đêm, luộc và rửa sạch)",
+            "amount": "300",
+            "unit": "gram"
+          },
+          {
+            "name": "Xương heo",
+            "amount": "500",
+            "unit": "gram"
+          },
+          {
+            "name": "Hành tím (băm nhỏ)",
+            "amount": "2",
+            "unit": "củ"
+          },
+          {
+            "name": "Hành lá (cắt khúc)",
+            "amount": "2-3",
+            "unit": "cây"
+          },
+          {
+            "name": "Tỏi (băm nhỏ)",
+            "amount": "3",
+            "unit": "tép"
+          },
+          {
+            "name": "Gia vị : Đường, muối, tiêu, nước mắm, hạt nêm",
+            "amount": "",
+            "unit": ""
+          },
+          {
+            "name": "Dầu ăn",
+            "amount": "2",
+            "unit": "muỗng canh"
+          }
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Cho 500ml nước lọc vào nồi rồi đun sôi. Thêm 1 muỗng canh muối, 1 muỗng canh giấm, rồi đổ toàn bộ phần giò heo vào và chần sơ trong khoảng 2 phút. Sau đó vớt ra, để ráo, cho vào 1 chiếc bát cùng 1 muỗng canh mắm, 1 muỗng canh tiêu xay, ướp trong khoảng 15 phút cho ngấm gia vị. Thực hiện tương tự như vậy với phần xương heo. Hành lá rửa sạch, bỏ rễ. Với phần đầu hành cắt để riêng, còn phần lá thì cắt nhỏ.",
+            "image": "https://www.btaskee.com/wp-content/uploads/2024/01/so-che-nguyen-lieu-nau-canh-mang-mong-gio.jpg"
+          },
+          {
+            "step": 2,
+            "description": "Cần luộc măng 2 - 3 lần để loại bỏ độc tố trong măng. Sau đó rửa sạch lại nhiều lần, tước thành sợi nhỏ theo chiều dọc.",
+            "image": "https://www.btaskee.com/wp-content/uploads/2024/01/so-che-mang-nau-canh-mang-mong-gio.jpg"
+          },
+          {
+            "step": 3,
+            "description": "Cho 1 muỗng canh dầu ăn vào, đợi nóng rồi cho hành tím băm vào phi thơm, tiếp đến cho măng vào xào. Nêm thêm 1 muỗng cà phê muối, đảo đều trong 5 phút.Sau đó, cho xương, giò heo vào nồi, thêm 1 lít nước vào và hầm trong 1 giờ. Thỉnh thoảng nên mở nắp, hớt bỏ bọt trên bề mặt để nước canh được trong hơn.",
+            "image": "https://www.btaskee.com/wp-content/uploads/2024/01/nau-canh-mang-mong-gio.jpg"
+          },
+          {
+            "step": 4,
+            "description": "Múc canh ra đĩa, thêm hành lá lên trên rồi thưởng thức.",
+            "image": "https://www.btaskee.com/wp-content/uploads/2024/01/canh-mang-mong-gio.jpg"
+          }
+        ],
+        "video": "https://www.youtube.com/watch?v=qS41E7Aqj-8",
+        "tips": [
+          "Ngâm măng: Ngâm măng khô qua đêm để măng mềm và loại bỏ chất đắng. Sau đó, luộc măng vài lần với nước sạch để măng không còn mùi hăng và đắng.",
+          "Chọn xương: Sử dụng xương heo tươi, có thể là xương ống hoặc xương sườn để nước canh ngọt và thơm hơn.",
+          "Nấu nước dùng: Hầm xương heo với hành tím và tỏi để nước dùng có vị ngọt tự nhiên. Hớt bọt thường xuyên để nước dùng trong."
+        ]
+      },
+      {
+        "id": "khai-vi",
+        "name": "Dưa món",
+        "description": "Dưa món là món ăn kèm không thể thiếu, đồng thời mang ý nghĩa tượng trưng cho sự hài hòa, đoàn viên.",
+        "image": "https://winevn.com/wp-content/uploads/2024/12/4-su-ket-hop-hoan-hao-giua-cua-rau-cu-va-nuoc-mam.jpg",
+        "categories": ["khai-vi", "dac-trung-mien-nam"],
+        "difficulty": "Dễ",
+        "prepTime": "3-5 ngày",
+        "cookTime": "12-15 phút",
+        "servings": "6-10 người",
+        "ingredients": [
+          {
+            "name": "Củ cải trắng",
+            "amount": "400",
+            "unit": "gram"
+          },
+          {
+            "name": "Cà rốt",
+            "amount": "400",
+            "unit": "gram"
+          },
+          {
+            "name": "Su hào",
+            "amount": "400",
+            "unit": "gram"
+          },
+          {
+            "name": "Hành tím",
+            "amount": "4",
+            "unit": "củ"
+          },
+          {
+            "name": "Tỏi",
+            "amount": "5",
+            "unit": "tép"
+          },
+          {
+            "name": "Ớt",
+            "amount": "5",
+            "unit": "trái"
+          },
+          {
+            "name": "Muối",
+            "amount": "2",
+            "unit": "muỗng canh"
+          },
+          {
+            "name": "Nước mắm",
+            "amount": "200",
+            "unit": "ml"
+          },
+          {
+            "name": "Đường",
+            "amount": "300",
+            "unit": "gram"
+          },
+          {
+            "name": "Nước",
+            "amount": "400",
+            "unit": "ml"
+          }
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Các loại rau củ rửa sạch và cắt miếng nhỏ. Cho muối vào bóp cùng rau củ và để 10 phút. Sau đó xả lại bằng nước rồi vắt ráo. Đem rau củ đi phơi nắng cho hơi héo.",
+            "image": "https://th.bing.com/th/id/R.e9903c0e96a5fc4fcb180608a5d00790?rik=UhFbSW2t8BaE8Q&pid=ImgRaw&r=0"
+          },
+          {
+            "step": 2,
+            "description": "Cho nước mắm và đường vào nồi nấu sôi lên tầm 5 phút thì tắt bếp và để nguội hoàn toàn.",
+            "image": "https://nhahanglavong.com/wp-content/uploads/nuoc-mam-ngam-dua-mon.jpg"
+          },
+          {
+            "step": 3,
+            "description": "Cho rau củ vào hũ thủy tinh và đổ nước mắm ngập rau củ. Đậy kín nắp và để sau 2 ngày là có thể ăn được.",
+            "image": "https://th.bing.com/th/id/R.99752f4040fdfbb371bf36a0c8481e12?rik=5dYQEX3GZ8BGyQ&pid=ImgRaw&r=0"
+          }
+          
+        ],
+        "video": "https://www.youtube.com/watch?v=eU2d_kBK-LI",
+        "tips": [
+          "Chọn các loại rau củ tươi như cà rốt, củ cải trắng, đu đủ xanh, su hào, và hành tím. Nguyên liệu tươi sẽ giúp dưa món giòn và ngon hơn.",
+          "Pha nước muối với tỷ lệ phù hợp (thường là 1 phần muối, 1 phần đường và 4 phần nước) và đun sôi. Để nước muối nguội hoàn toàn trước khi đổ vào hũ dưa món.",
+          "Đảm bảo hũ đựng dưa món và các dụng cụ đều sạch sẽ và khô ráo để tránh dưa món bị hỏng."
+        ]
+      }
+
+
   ]
 } 
