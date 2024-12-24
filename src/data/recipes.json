@@ -4,7 +4,7 @@
       "id": "khai-vi",
       "name": "Món khai vị",
       "description": "Các món ăn khai vị ngày Tết",
-      "image": "/images/recipes/categories/khai-vi.jpg"
+      "image": "https://file.hstatic.net/1000375958/file/chahoatrungmuoihvc_f3a31e40afc14873a5218d533ad7999a_grande.jpg"
     },
     {
       "id": "mon-chinh",
@@ -16,25 +16,25 @@
       "id": "trang-mieng",
       "name": "Món tráng miệng",
       "description": "Các món tráng miệng và bánh kẹo ngày Tết",
-      "image": "/images/recipes/categories/trang-mieng.jpg"
+      "image": "https://i.ex-cdn.com/vntravellive.com/files/news/2022/01/24/goi-y-5-mon-trang-mieng-moi-la-cho-ngay-tet-181416.jpg"
     },
     {
       "id": "dac-trung-mien-bac",
       "name": "Đặc trưng miền Bắc",
       "description": "Món ăn đặc trưng Tết miền Bắc",
-      "image": "/images/recipes/categories/mien-bac.jpg"
+      "image": "https://imagev3.dantocmiennui.vn/w1000/Uploaded/2024/exlpvekyzsztyyrey/2022_01_27/ha_noi.jpg"
     },
     {
       "id": "dac-trung-mien-trung",
       "name": "Đặc trưng miền Trung",
       "description": "Món ăn đặc trưng Tết miền Trung",
-      "image": "/images/recipes/categories/mien-trung.jpg"
+      "image": "https://blog.organicfood.vn/wp-content/uploads/2023/02/Dac-San-Mon-An-Ngay-Tet-Cua-Nguoi-Mien-Trung-La-Gi.jpg"
     },
     {
       "id": "dac-trung-mien-nam",
       "name": "Đặc trưng miền Nam",
       "description": "Món ăn đặc trưng Tết miền Nam",
-      "image": "/images/recipes/categories/mien-nam.jpg"
+      "image": "https://ik.imagekit.io/tvlk/blog/2022/01/mon-ngon-ngay-tet-cover.jpeg?tr=c-at_max"
     }
   ],
   "recipes": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "id": "mon-chinh",
+      "id": "thit-kho-hot-vit",
       "name": "Thịt kho hột vịt",
       "description": "Đây là món ăn không thể thiếu trong cỗ Tết của người dân Nam Bộ và miền Tây. Thịt vuông kết hợp trứng tròn biểu tượng cho âm dương hài hòa, năm mới đủ đầy sung túc.",
       "image": "https://i.ytimg.com/vi/-cRVMoTZboE/maxresdefault.jpg",
@@ -199,7 +199,7 @@
         ]
       },
       {
-        "id": "mon-chinh",
+        "id": "ga-luoc",
         "name": "Gà luộc",
         "description": "Gà luộc là món ăn không thể thiếu trong những bữa ăn gia đình, các lễ cúng, dâng hương và đặc biệt là mâm cỗ ngày Tết. ",
         "image": "https://f.hoatieu.vn/data/image/2021/02/09/bi-quyet-luoc-ga-ngon-ngay-tet-1.jpg",
@@ -253,7 +253,7 @@
         ]
       },
       {
-        "id": "khai-vi",
+        "id": "cha-gio",
         "name": "Chả giò",
         "description": "Chả giò (chả cuốn, chả nem) là món ăn truyền thống của người Việt và được nhiều gia đình yêu thích, nhất là trong các dịp lễ, Tết.",
         "image": "https://th.bing.com/th/id/OIP.W8gL8zYS7RNKA4VA3cGOGwHaEL?rs=1&pid=ImgDetMain",
@@ -322,7 +322,7 @@
         ]
       },
       {
-        "id": "mon-chinh",
+        "id": "canh-kho-qua-doi-thit",
         "name": "Canh khổ qua dồi thịt",
         "description": "Vào dịp Tết, người ta thường sử dụng khổ qua để nấu món canh khổ qua nhồi thịt, một món ăn truyền thống với ý nghĩa mong muốn mọi điều khó khăn, khổ cực sẽ qua đi trong năm mới.",
         "image": "https://khaihoanphuquoc.com.vn/wp-content/uploads/2024/02/canh-kho-qua-nhoi-thit-va-ca-thac-lac-recipe-main-photo.jpg",
@@ -389,7 +389,7 @@
         ]
       },
       {
-        "id": "trang-mieng",
+        "id": "che-troi-nuoc",
         "name": "Chè trôi nước",
         "description": "Chè trôi nước là một món ăn truyền thống không thể thiếu trong dịp Tết của người Việt Nam, đặc biệt là ở miền Trung. Món chè này có ý nghĩa tượng trưng cho sự đoàn viên, sum vầy và may mắn trong năm mới.",
         "image": "https://khaihoanphuquoc.com.vn/wp-content/uploads/2024/02/5-cach-nau-che-troi-nuoc-thom-ngon-deo-mem-khong-bi-cung-202205170704184093-e1706883654513.jpg",
@@ -465,7 +465,7 @@
         ]
       },
       {
-        "id": "mon-chinh",
+        "id": "canh-mang-nau-xuong",
         "name": "Canh măng nấu xương",
         "description": "Cũng như những nơi khác, trong thực đơn Tết miền Trung không thể thiếu đi những món canh ấm nóng, và món ăn từ măng khô nấu cùng xương heo là một sự lựa chọn hấp dẫn và đầy ý nghĩa.",
         "image": "https://winevn.com/wp-content/uploads/2024/12/7-canh-mang-nau-xuong-ngot-thanh-dai-mem-loi-cuon.jpg",
@@ -541,7 +541,7 @@
         ]
       },
       {
-        "id": "khai-vi",
+        "id": "dua-mon",
         "name": "Dưa món",
         "description": "Dưa món là món ăn kèm không thể thiếu, đồng thời mang ý nghĩa tượng trưng cho sự hài hòa, đoàn viên.",
         "image": "https://winevn.com/wp-content/uploads/2024/12/4-su-ket-hop-hoan-hao-giua-cua-rau-cu-va-nuoc-mam.jpg",
