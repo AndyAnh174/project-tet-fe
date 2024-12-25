@@ -626,8 +626,528 @@
           "Pha nước muối với tỷ lệ phù hợp (thường là 1 phần muối, 1 phần đường và 4 phần nước) và đun sôi. Để nước muối nguội hoàn toàn trước khi đổ vào hũ dưa món.",
           "Đảm bảo hũ đựng dưa món và các dụng cụ đều sạch sẽ và khô ráo để tránh dưa món bị hỏng."
         ]
-      }
+      },
+      {
+        "id": "cu-kieu",
+        "name": "Củ kiệu",
+        "description": "Củ kiệu là một nguyên liệu cực kì quen thuộc đối với người dân Việt Nam trong dịp Tết bởi hương vị thơm ngon khó lẫn và đặc trưng của nó.",
+        "image": "https://cdn.tuoitre.vn/thumb_w/1200/2020/1/13/dscf0007-1578903790452372438569.jpg",
+        "categories": ["khai-vi", "dac-trung-mien-nam"],
+        "difficulty": "Trung bình",
+        "prepTime": "2-3 tiếng",
+        "cookTime": "3-7 ngày",
+        "servings": "4-6 ngừoi",
+        "ingredients": [
+          {
+            "name": "Củ kiệu tươi",
+            "amount": "500",
+            "unit": "gram"
+          },
+          {
+            "name": "Cà rốt",
+            "amount": "1",
+            "unit": "củ"
+          }
 
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Kiệu mua về, bạn rửa sơ qua nước để loại bỏ bớt bụi bẩn. Sau đó, cho vào một cái thau cùng với 1 muỗng canh muối. Để rút ngắn thời gian ngâm kiệu thì bạn sẽ cho nước ấm vào thau với 1 lượng vừa đủ sao cho sâm sấp bề mặt kiệu rồi ngâm trong khoảng 2 tiếng. Đối với cà rốt, bạn cạo lớp vỏ, rửa lại với nước sạch và cắt khúc có độ dày khoảng 1/3 lóng tay. Tiếp đó, bạn có thể rửa chung với nước muối pha loãng của củ kiệu hoặc rửa riêng với nước muối khoảng 4 - 5 phút đều được.",
+            "image": "https://cdn.tgdd.vn/2021/01/CookRecipe/GalleryStep/lam-sach-cu-kieu-lan-1-3.jpg"
+          },
+          {
+            "step": 2,
+            "description": "Phơi kiệu trên mâm (hoặc bất kỳ rổ lớn nào), dưới một nắng sao cho kiệu khô ráo và khi đem cân còn khoảng 250gr là được.",
+            "image": "https://cdn.tgdd.vn/2021/01/CookRecipe/GalleryStep/phoi-cu-kieu.jpg"
+          },
+          {
+              "step": 3,
+              "description": "Làm mắm đường: Cho 250gr đường và 150ml nước mắm vào nồi sạch, bắc lên bếp đun với lửa nhỏ. Khuấy đều tay để cho đường tan rồi tắt bếp và để nguội.",
+              "image": "https://cdn.tgdd.vn/2021/01/CookRecipe/GalleryStep/nau-nuoc-mam-ngam-kieu.jpg"
+          },
+          {
+              "step": 4,
+              "description": "Bạn tiếp tục dùng dao gọt bỏ những lớp màng bao hoặc phần rễ còn sót lại trên củ kiệu. Sau đó, bạn rửa kiệu trong một cái tô có chứa 2/3 chén giấm khoảng 3 - 4 phút.",
+              "image": "https://cdn.tgdd.vn/2021/01/CookRecipe/GalleryStep/lam-sach-cu-kieu-lan-2-1.jpg"
+          },
+          {
+              "step": 5,
+              "description": "Đầu tiên, bạn rửa hũ thủy tinh sạch với nước nóng, để thật ráo và lau chùi sạch trước khi dùng ngâm kiệu. Tiếp đó, bạn dùng đũa xếp củ kiệu vào hũ và rưới nước mắm đường (đã để nguội) vào đầy hũ. Đậy nắp và để chỗ thoáng mát khoảng 7 - 10 ngày là dùng được.",
+              "image": "https://cdn.tgdd.vn/2021/01/CookRecipe/GalleryStep/ngam-cu-kieu-2.jpg"
+            }
+        ],
+        "video": "https://www.youtube.com/watch?v=rHPoimMVVpk",
+        "tips": [
+          "Để làm món kiệu ngâm thì bạn nên chọn kiệu quế với đặc điểm nhận dạng là phần thân nở, củ sẽ khá to, rễ nhiều, lá mảnh, eo kiệu thon, thắt eo rõ ràng, đuôi nối liền thân và có vị hăng nồng.",
+          "Ưu tiên chọn mua những củ cà rốt có màu cam tươi sáng, lớp vỏ láng, hình dáng củ thẳng, kích cỡ không quá to mà vừa đủ và khi cầm trên tay sẽ cảm thấy chắc tay và có độ cứng vừa phải.",
+          "Làm sạch kiệu lần 2 với giấm sẽ giúp kiệu trắng, giòn và khi ăn sẽ có vị chua nhẹ ngon hơn nhé!",
+          "Sau khi kiệu đã ăn được, bạn nên bảo quản hũ kiệu vào ngăn mát tủ lạnh để dùng được lâu hơn, thậm chí là đến 6 tháng."
+        ]
+      },
+      {
+        "id": "dua-hanh",
+        "name": "Dưa Hành",
+        "description": "Dưa hành ngày Tết là một món ăn truyền thống, đặc trưng trong mâm cỗ Tết của người Việt, đặc biệt ở miền Bắc. Với vị chua nhẹ, cay nồng, và giòn sần sật, dưa hành không chỉ là món ăn kèm giúp 'giải ngấy' mà còn mang ý nghĩa đặc biệt, tượng trưng cho sự giản dị và hòa quyện trong văn hóa ẩm thực ngày Tết.",
+        "image": "https://cdn.tgdd.vn/Files/2017/04/25/976109/cach-lam-hanh-tim-muoi-chua-ngot-gion-ngon-dung-dieu-202212091506547673.jpg",
+        "categories": ["khai-vi", "dac-trung-mien-bac"],
+        "difficulty": "Dễ",
+        "prepTime": "1-2 tiếng",
+        "cookTime": "3-7 ngày",
+        "servings": "4-6 ngừoi",
+        "ingredients": [
+          {
+            "name": "Hành tím",
+            "amount": "1",
+            "unit": "kg"
+          },
+          {
+            "name": "Khế",
+            "amount": "2",
+            "unit": "Trái"
+          }
+
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Phơi hành tím trong bóng râm khoảng vài tiếng cho hành hơi héo khi muối sẽ ngon hơn.",
+            "image": "https://cdn.tgdd.vn/Files/2017/04/25/976109/cach-lam-hanh-tim-chua-ngot-an-lien-1a.jpg"
+          },
+          {
+            "step": 2,
+            "description": "Tiếp theo ngâm hành trong nước vo gạo trong ít nhất 8 tiếng (tốt nhất là để qua đêm) để hành bớt mùi hăng và có độ giòn, bảo quản được lâu hơn. Sau đó bóc vỏ hành rồi rửa lại bằng nước lạnh, để ráo.",
+            "image": "https://cdn.tgdd.vn/Files/2017/04/25/976109/cach-lam-hanh-tim-chua-ngot-an-lien-2b.jpg"
+          },
+          {
+              "step": 3,
+              "description": "Tỏi bóc vỏ, để nguyên tép. Ớt để nguyên trái hoặc cắt lát. Khế ép lấy nước.",
+              "image": "https://cdn.tgdd.vn/Files/2017/04/25/976109/cach-lam-hanh-tim-chua-ngot-an-lien-3c.jpg"
+          },
+          {
+              "step": 4,
+              "description": "Cho 500ml giấm, 3 muỗng cà phê muối, 200g đường, nước ép khế cùng tỏi và ớt vào nồi đun cho đến khi hỗn hợp tan hết thì tắt bếp, để nguội.",
+              "image": "https://cdn.tgdd.vn/Files/2017/04/25/976109/cach-lam-hanh-tim-chua-ngot-an-lien-2.jpg"
+          },
+          {
+              "step": 5,
+              "description": "Cho hành đã ráo vào hũ, nén chặt xuống rồi đổ nước giấm chua ngọt vừa làm vào sao cho nước ngập hết mặt hành để hành được ngấm đều và không bị thâm. Ngâm hành khoảng 3 ngày là có thể lấy ra dùng. Dưa hành muối sau khi hoàn thành để nơi thoáng mát có thể sử dụng được trong khoảng 5 - 7 ngày, và trong ngăn mát tủ lạnh khoảng 1 tháng.",
+              "image": "https://cdn.tgdd.vn/Files/2017/04/25/976109/cach-lam-hanh-tim-chua-ngot-an-lien-3.jpg"
+            }
+        ],
+        "video": "https://www.youtube.com/watch?v=RwgzzvpnT9c",
+        "tips": [
+          "Bạn nên chọn mua hành tím Lý Sơn vì loại này cay và giòn hơn so với các loại khác nên dùng để muối hành sẽ cực kỳ ngon. Thời gian tốt nhất để mua hành là vào tháng 12 và tháng 1 vì lúc này hành vừa được thu hoạch nên rất tươi ngon.",
+          "Nhưng nếu bạn không tìm mua được hành tím Lý Sơn thì vẫn có thể chọn hành tím loại khác nhưng phải chọn loại có củ to vừa phải, đều và cầm chắc tay, vỏ khô, thịt bên trong màu tím đậm, lành lặn, không trầy xước, bóp vào thấy cứng.",
+          "Khi ăn bạn nên sử dụng dụng cụ sạch để gắp dưa hành, tránh khuấy trộn nhiều dễ tạo lớp màng trắng, sẽ không bảo quản được lâu."
+          
+        ]
+      },
+      {
+        "id": "tre",
+        "name": "Tré",
+        "description": "Tré là một món ăn thường được dùng làm món khai vị trong các bữa tiệc hoặc dịp lễ, đặc biệt là ở miền Trung Việt Nam. Với vị chua nhẹ, cay nồng, và hương thơm đặc trưng của các loại gia vị, tré không chỉ kích thích vị giác mà còn rất phù hợp để mở đầu bữa ăn.",
+        "image": "https://nemchasaungoc.com/tenants/tiemchachica/upload/ckeditors/2021-10/tre-tron-la-gi.jpeg",
+        "categories": ["khai-vi", "dac-trung-mien-trung"],
+        "difficulty": "Trung bình",
+        "prepTime": "1-2 tiếng",
+        "cookTime": "2-3 ngày",
+        "servings": "3-5 ngừoi",
+        "ingredients": [
+          {
+            "name": "Tai heo",
+            "amount": "500",
+            "unit": "gram"
+          },
+          {
+            "name": "Thịt ba chỉ",
+            "amount": "300",
+            "unit": "gram"
+          },
+          {
+            "name": "Da heo",
+            "amount": "100",
+            "unit": "gram"
+          },
+          {
+            "name": "Mè rang",
+            "amount": "50",
+            "unit": "gram"
+          },
+          {
+            "name": "Thính gạo",
+            "amount": "30",
+            "unit": "gram"
+          },
+          {
+            "name": "Lá chuối",
+            "amount": "5",
+            "unit": "lá"
+          },
+          {
+            "name": "Lá ổi",
+            "amount": "10",
+            "unit": "Lá"
+          }
+
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Thịt heo, da và tai heo làm sạch, để ráo. Bắc một nồi nước sôi, cho gừng, hành tím, 1 thìa cà phê muối và 20ml giấm trắng vào nồiCho thịt ba chỉ và da vào luộc chín trong khoảng 30 - 40 phút trong lửa vừa. Tương tự luộc chín tai heo trong khoảng 45 phút.Sau đó, khi cả hai đã chín thì vớt ra, ngâm vào nước đá lạnh để các nguyên liệu được giòn.Tiếp theo cắt sợi thịt ba chỉ, da heo và tai heo.",
+            "image": "https://cdn.tgdd.vn/Files/2020/03/15/1242336/cach-lam-tre-dac-san-doc-dao-cua-binh-dinh-1.jpg"
+          },
+          {
+            "step": 2,
+            "description": "Tiếp theo cắt sợi thịt ba chỉ, da heo và tai heo.",
+            "image": "https://cdn.tgdd.vn/Files/2020/03/15/1242336/cach-lam-tre-dac-san-doc-dao-cua-binh-dinh-9.jpg"
+          },
+          {
+              "step": 3,
+              "description": "Tỏi, riềng, ớt băm nhỏ. Cho tỏi băm, riềng băm, ớt băm, thịt ba chỉ, da heo và tai heo luộc chín, cắt sợi vào tô. Nêm gia vị gồm đường, tiêu, hạt nêm, 3 thìa nước mắm và 2 thìa mè rang. Dùng tay trộn đều. Tiếp theo cho khoảng 4 - 5 thìa thính gạo và trộn đều lần nữa cho các nguyên liệu hòa quyện với nhau.",
+              "image": "https://cdn.tgdd.vn/Files/2020/03/15/1242336/cach-lam-tre-dac-san-doc-dao-cua-binh-dinh-3.jpg"
+          },
+          {
+              "step": 4,
+              "description": "Lá chuối cắt thành miếng vuông khoảng 25 - 30 cm, rửa sạch, để ráo. Trải lá chuối lên mặt phẳng, thêm 1 lá ổi vào giữa. Cho hỗn hợp tré lên trên lá ổi. Dùng tay cuộn chặt lại và cột dây lạt vào 2 đầu cây tré.",
+              "image": "https://cdn.tgdd.vn/Files/2020/03/15/1242336/cach-lam-tre-dac-san-doc-dao-cua-binh-dinh-4.jpg"
+          },
+          {
+              "step": 5,
+              "description": "Bạn để tré nơi thoáng mát từ 2 - 3 ngày để tré lên men.",
+              "image": "https://cdn.tgdd.vn/Files/2020/03/15/1242336/cach-lam-tre-dac-san-doc-dao-cua-binh-dinh-5.jpg"
+            }
+        ],
+        "video": "https://www.youtube.com/watch?v=G6L_K1ERVJA",
+        "tips": [
+          "Tré sau khi làm để khoảng 2 - 3 ngày là ăn được, tuy nhiên tré để lâu dễ bị chua. Vì thế, bạn nên cho tré vào ngăn mát tủ lạnh sẽ được bảo quản lâu hơn.",
+          "Bạn có thể ăn tré trực tiếp hoặc đánh tơi tré ra và trộn chung với dưa leo xắt nhỏ thêm một chút muối tiêu, tỏi ớt cũng sẽ rất ngon.",
+          "Tai heo và da heo khi mua về bạn rửa sạch với nước muối pha loãng, rồi dùng hỗn hợp giấm muối chà sát vào tai để khoảng 10 phút cho sạch hết bẩn."
+          
+        ]
+      },
+      {
+        "id": "thit-dong",
+        "name": "Thịt đông",
+        "description": "Thịt đông đúng là một món ăn đặc trưng của miền Bắc Việt Nam trong dịp Tết, và nó thường được xem là món chính trong mâm cỗ ngày Tết, đặc biệt khi ăn kèm với dưa hành và cơm nóng. Món ăn này không chỉ độc đáo bởi hương vị mà còn bởi cách chế biến phụ thuộc vào khí hậu se lạnh của miền Bắc vào những ngày đầu năm.",
+        "image": "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2023/1/4/thit-dong-5-16727400636931101505369-1672801620042-16728016203451296837571.jpg",
+        "categories": ["mon-chinh", "dac-trung-mien-bac"],
+        "difficulty": "Dễ",
+        "prepTime": "30 phút",
+        "cookTime": "1-2 tiếng",
+        "servings": "3-5 người",
+        "ingredients": [
+          {
+            "name": "Thịt chân giờ rút xương (hoặc thị ba rọi)",
+            "amount": "500",
+            "unit": "gram"
+          },
+          {
+            "name": "Bì heo",
+            "amount": "100",
+            "unit": "gram"
+          },
+          {
+            "name": "Nấm hương",
+            "amount": "20",
+            "unit": "gram"
+          },
+          {
+            "name": "Mộc nhĩ",
+            "amount": "15",
+            "unit": "gram"
+          }
+
+
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Nếu bạn sử dụng thêm bì heo, thì hãy cạo sạch lông để tránh cảm giác khó chịu khi ăn. Thịt chân giò hay thịt ba rọi thì cũng làm tương tự. Tất cả đem đi rửa sạch với muối và để ráo. Thái thịt chân giò thành từng khúc, còn bì heo thì bạn có thể để nguyên miếng hoặc mỗi miếng bạn cắt ra thành làm 4, 6 tùy theo sở thích.",
+            "image": "https://cdn.tgdd.vn/2022/01/CookRecipe/GalleryStep/so-che-thit-heo.jpg"
+          },
+          {
+            "step": 2,
+            "description": "Hành tím bóc vỏ, băm nhỏ. Ngâm nấm hương, mộc nhĩ cho nở ra, rồi đem thái sợi.",
+            "image": "https://cdn.tgdd.vn/2022/01/CookRecipe/GalleryStep/so-che-cac-nguyen-lieu-khac-9.jpg"
+          },
+          {
+              "step": 3,
+              "description": "Cho thịt vừa thái vào chén tô, rồi lần lượt cho gia vị: 1 muỗng café hạt nêm + 1 muỗng canh nước mắm + 1/3 hành tím đã được băm nhỏ + 1 ít bột ngọt. Thịt ướp gia vị để ngấm khoảng 30 phút.",
+              "image": "https://cdn.tgdd.vn/2022/01/CookRecipe/GalleryStep/uop-thit-10.jpg"
+          },
+          {
+              "step": 4,
+              "description": "Phi ít hành tím với dầu ăn trên nồi. Tiếp đó, cho thịt vào để xào cho đến khi thấy thịt săn lại thì mới đổ nước sôi vào để hầm khoảng 30 phút.Trong quá trình hầm mềm thịt, bạn cần vớt bọt liên tục.",
+              "image": "https://cdn.tgdd.vn/2022/01/CookRecipe/GalleryStep/ham-thit.jpg"
+          },
+          {
+              "step": 5,
+              "description": "Bạn lấy chảo chống dính tiến hành phi thơm ít hành tím cùng với nấm hương, mộc nhĩ đã được thái ở bước trên. Hãy nêm chút gia vị vào để xào.",
+              "image": "https://noiphodien123.vn/wp-content/uploads/2021/05/xao-nam-huong.jpg"
+          },
+          {
+              "step": 6,
+              "description": "Khi thịt có dấu hiệu đã mềm, bạn mới cho vào phần nấm và mộc nhĩ. Tiếp tục đun sôi hỗn hợp thêm khoảng 4 phút nữa rồi tắt bếp. Rắc ít hạt tiêu vào, đảo đều và để dưới quạt cho hỗn hợp mau nguội.",
+              "image": "https://cdn.tgdd.vn/2022/01/CookRecipe/GalleryStep/hoan-thanh-2.jpg"
+          },
+          {
+              "step": 7,
+              "description": "Để tăng thêm màu sắc cho món ăn, bạn cắt thêm vài lát cà rốt hình bông hoa cho vào đáy tô hoặc hộp đựng thực phẩm, rồi múc hỗn hợp thịt vào. Cuối cùng là để chén thịt kho đó vào ngăn mát tủ lạnh để đông lại.",
+              "image": "https://i1-giadinh.vnecdn.net/2021/02/04/thit2-1612414588-5011-1612414921.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=62_Cyyx8rwPZ_TOA2qWJ8w"
+            }
+        ],
+        "video": "https://www.youtube.com/watch?v=x1zFGYz-P4o",
+        "tips": [
+          " Đừng nên chần sơ thịt qua nước sôi sau khi rửa, hoặc trước khi chế biến, đây là thói quen vô cùng sai lầm. Theo PGS. TS Nguyễn Duy Thịnh trên website báo dân trí đã từng chia sẻ rằng: Việc làm này sẽ làm cho lớp protein trên bề mặt thịt bị đóng vón lại (co lại), khiến các hóa chất bẩn - có trong thịt sẽ không thôi được ra bên ngoài."
+          
+        ]
+      },
+      {
+        "id": "xoi-gac",
+        "name": "Xôi gấc",
+        "description": "Xôi gấc là một món ăn thường được xem là món chính trong các dịp lễ Tết, đám cưới, và cỗ bàn truyền thống của người Việt. Với màu đỏ cam rực rỡ và hương vị dẻo thơm, xôi gấc không chỉ là một món ăn ngon mà còn mang ý nghĩa may mắn, tài lộc trong văn hóa Việt Nam.",
+        "image": "https://noinaucongnghiep.com/wp-content/uploads/2018/12/c%C3%A1ch-%C4%91%E1%BB%93-x%C3%B4i-g%E1%BA%A5c-2.jpg",
+        "categories": ["mon-chinh", "dac-trung-mien-bac"],
+        "difficulty": "Dễ",
+        "prepTime": "1-2 tiếng",
+        "cookTime": "1-2 tiếng",
+        "servings": "2-3 người",
+        "ingredients": [
+          {
+            "name": "Quả gấc",
+            "amount": "200",
+            "unit": "gram"
+          },
+          {
+            "name": "Nếp bắc",
+            "amount": "2",
+            "unit": "bát"
+          },
+          {
+            "name": "Nước cốt dừa",
+            "amount": "150",
+            "unit": "ml"
+          },
+          {
+            "name": "Rượu trắng",
+            "amount": "5",
+            "unit": "ml"
+          }
+
+
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Ngâm nếp qua đêm hoặc ít nhất là 4 tiếng với một ít muối. Bổ đôi quả gấc để lấy thịt gấc.",
+            "image": "https://cdn.tgdd.vn/Files/2015/01/31/605300/cach-nau-xoi-gac-ngon-do-tung-bung-cho-ngay-tet-1.jpg"
+          },
+          {
+            "step": 2,
+            "description": "Bóp cho phần thịt gấc bong ra khỏi hạt gấc rồi đem trộn với 1 thìa rượu trắng. Lấy phần thịt gấc mới trộn với rượu để đem trộn với nếp cùng với một ít muối.Trong quá trình đó bạn cho thêm một ít nước cốt dừa vào cho thơm. Lượng nhiều hay ít tùy theo sở thích.",
+            "image": "https://cdn.tgdd.vn/Files/2015/01/31/605300/cach-nau-xoi-gac-ngon-do-tung-bung-cho-ngay-tet-4.jpg"
+          },
+          {
+              "step": 3,
+              "description": "Đem hỗn hợp vừa trộn cho vào xửng hấp của nồi cơm điện, hấp trong vòng 35 - 40 phút. Lúc này, món xôi gấc của bạn coi như hoàn thành. Bạn có thể thêm một lượng đường vừa ăn với mình để xôi dễ ăn hơn.",
+              "image": "https://cdn.tgdd.vn/Files/2015/01/31/605300/cach-nau-xoi-gac-ngon-do-tung-bung-cho-ngay-tet-5.jpg"
+          }
+          
+        ],
+        "video": "https://www.youtube.com/watch?v=tgmAjwtwb3g",
+        "tips": [
+          "Nếu nhà bạn không có đồ hấp xôi thì bạn có thể sử dụng nồi cơm điện để đồ xôi cũng được. Trong trường hợp này bạn nên giảm ít lượng nước cốt dừa pha vào gạo nếp, và sử dụng nước dừa tươi để nấu xôi. Một cách khác thay thế là có thể dùng lò vi sóng để nấu xôi.",
+          "Theo kinh nghiệm của những người chuyên làm xôi để bán thì với các loại xôi có đường, trong đó có xôi gấc, bạn nên đồ xôi 2 lần.",
+          "Khi xôi chín, nếu muốn trưng bày đẹp hơn thì bạn có thể cho một chút dầu ăn để xôi có vẻ bóng bẩy. Nếu muốn ăn ngọt thì bạn có thể rắc thêm một chút đường để tạo vị ngọt nhẹ. Để đẹp thì bạn có thể dùng khuôn để ép xôi tạo thành hình đẹp hơn."
+          
+        ]
+      },
+      {
+        "id": "banh-com",
+        "name": "Bánh cốm",
+        "description": "Bánh cốm là món tráng miệng phổ biến trong dịp Tết và các lễ hội tại miền Bắc, được yêu thích nhờ hương vị thơm ngon, thanh tao và mang đậm nét văn hóa đặc trưng của người Hà Nội.",
+        "image": "https://thucphamplaza.com/wp-content/uploads/products_img/cach-lam-banh-com-3.jpg",
+        "categories": ["trang-mieng", "dac-trung-mien-bac"],
+        "difficulty": "Trung bình",
+        "prepTime": "1-2 tiếng",
+        "cookTime": "2-3 tiếng",
+        "servings": "3-4 người",
+        "ingredients": [
+          {
+            "name": "Cốm khô",
+            "amount": "300",
+            "unit": "gram"
+          },
+          {
+            "name": "Đậu xanh đã cà vỏ",
+            "amount": "50",
+            "unit": "gram"
+          },
+          {
+            "name": "Vừng rang chín",
+            "amount": "3",
+            "unit": "thìa ăn cơm"
+          },
+          {
+            "name": "Nước hoa bưởi",
+            "amount": "3-5",
+            "unit": "giọt"
+          },
+          {
+            "name": "Lá nếp",
+            "amount": "5-7",
+            "unit": "lá"
+          }
+
+
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Đậu xanh các bạn ngâm nước cho nở mềm trong vòng 3 tiếng, đem hấp chín. Cho đậu vào máy xay sinh tố cùng một ít nước và 30 gr đường rồi xay thật nhuyễn",
+            "image": "https://cdn.tgdd.vn/Files/2020/04/21/1250641/cach-lam-gio-lua-chay-tu-dau-xanh-thom-ngon-dep-mat-don-gian-4.jpg"
+          },
+          {
+            "step": 2,
+            "description": "Cho phần đậu xanh đã xay nhuyễn, cùng với dầu ăn và 1 nửa chỗ bột nếp vào chảo chống dính. Đặt chảo lên bếp sên nhỏ lửa cho đến khi đậu xanh trở lên khô ráo thì rắc một nửa chỗ vừng và vài giọt nước hoa bưởi vào. Dùng đũa đảo đều để vừng và nước hoa bưởi trộn đều vào đậu, rồi cho đậu ra một cái bát.",
+            "image": "https://i.vietgiaitri.com/2018/10/13/cach-lam-banh-da-lon-dau-xanh-la-dua-dai-ngon-d5e9bf.jpg"
+          },
+          {
+              "step": 3,
+              "description": "Cốm khô đem nhặt bỏ những hạt xấu, xạn rửa qua nước cho thật sạch. Ngâm cốm khô với nước lạnh trong vòng 1 tiếng cho cốm nở mềm. Lượng nước ngâm cốm cao hơn bề mặt cốm một tí xíu.",
+              "image": "https://cuahang.takyfood.com.vn/vnt_upload/news/12_2018/Mon-ngon-7/Banh-com/3.jpg"
+          },
+          {
+            "step": 4,
+            "description": "Cho 300 ml nước cùng 50 gr đường và lá nếp vào chảo. Đun cho tan đường thì cho cốm vào xào ở mức lửa nhỏ. Dùng đũa quấy đều để cốm không bị bén chảo. Khi cốm trở lên khô ráo, các hạt cốm đã gần như tan hết, ăn thử thấy cốm rất dẻo, không còn lẫn những hạt cốm còn rắn nữa là được.",
+            "image": "https://cuahang.takyfood.com.vn/vnt_upload/news/12_2018/Mon-ngon-7/Banh-com/4.jpg"
+          },
+          {
+            "step": 5,
+            "description": "Lấy dầu ăn thoa để tạo lớp chống chính khi nặn bánh. Bạn lấy một ít cốm đã xào nặm thành hình vuông thật mỏng rồi đặt miếng cốm đó vào một miếng màng bọc thức ăn. Sau đó, lấy một ít nhân đậu xanh dàn đều vào giữa miếng cốm. Sau khi cho nhân vào phần đậu xanh xong bạn tiếp tục nặn một miếng cốm tương tự đặt chồng lên trên. Cuối cùng là rắc một chút vừng vào bề mặt của chiếc bánh cốm. Bạn cũng có thể nặn bánh cốm thành hình tròn vuông, tùy ý đấy.",
+            "image": "https://thucphamplaza.com/wp-content/uploads/products_img/cach-lam-banh-com-2-600x433.jpg"
+          }
+          
+        ],
+        "video": "https://www.youtube.com/watch?v=mRsO7pj2V5A",
+        "tips": [
+          "Để bánh cốm thêm phần đặc biệt, bạn có thể thêm dừa nạo sợi vào bên trong bánh trước khi gói hoặc pha chút hương lá sen vào nước hấp để bánh có thêm hương thơm đặc trưng.",
+          "Trong lúc xào nếu thấy cốm còn lẫn những hạt rắn mà nước đã khô thì có thể chế thêm chút nước",
+          "Bánh cốm khi lấy ra khỏi tủ lạnh cần để ở nhiệt độ phòng khoảng 15-20 phút trước khi ăn để bánh trở lại độ mềm và thơm ngon nhất."
+          
+        ]
+      },
+      {
+        "id": "mut-ca-rot",
+        "name": "Mứt cà rốt",
+        "description": "Mứt cà rốt là một trong những món mứt Tết phổ biến và được yêu thích ở miền Nam, thường xuất hiện trong mâm cỗ Tết và làm quà biếu trong dịp Tết Nguyên Đán.",
+        "image": "https://i.ex-cdn.com/nongnghiep.vn/files/dungct/2022/01/24/mut-ca-rot-055246_511.jpg",
+        "categories": ["trang-mieng", "dac-trung-mien-nam"],
+        "difficulty": "Dễ",
+        "prepTime": "30 phút",
+        "cookTime": "1-2 tiếng",
+        "servings": "4-5 người",
+        "ingredients": [
+          {
+            "name": "Cà rốt",
+            "amount": "2",
+            "unit": "củ"
+          }
+
+
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Cà rốt gọt sạch vỏ, sau đó bạn chẻ đôi củ cà rốt, dùng dụng cụ bào để bào sợi cà rốt.",
+            "image": "https://cdn.tgdd.vn/Files/2016/01/02/765755/cach-lam-mut-ca-rot-cho-ngay-tet-them-may-man-1.jpg"
+          },
+          {
+            "step": 2,
+            "description": "Sau khi bào xong cà rốt, bạn cho vào một thố to và đổ đường vào, trộn đều đường với cà rốt. Tiếp đó, dùng màn bọc thực phẩm bọc kín miệng thố, để vậy trong 2 giờ, cho đến khi hỗn hợp đường cà rốt ra nước như trong hình, bạn mới dùng một cái rây để lọc cà rốt với nước đường.",
+            "image": "https://cdn.tgdd.vn/Files/2016/01/02/765755/cach-lam-mut-ca-rot-cho-ngay-tet-them-may-man-2.jpg"
+          },
+          {
+              "step": 3,
+              "description": "Đổ nước đường vào chảo và đặt lên bếp đun cho đến khi nước đường đặc keo lại thì cho cà rốt vào xào. Bạn vặn ngọn lửa nhỏ, đảo cà rốt liên tục đến khi đường bám vào cà rốt, có màu trắng, cho thêm vài giọt vani thì tắt bếp. Tiếp tục đảo để nhiệt lượng còn lại của bếp giúp mứt cà rốt khô thêm.",
+              "image": "https://cdn.tgdd.vn/Files/2016/01/02/765755/cach-lam-mut-ca-rot-cho-ngay-tet-them-may-man-3.jpg"
+          },
+          {
+            "step": 4,
+            "description": "Mứt sau khi hoàn thành có mùi thơm của cà rót và vị ngọt của đường đường cùng vị của ngọt của cà rốt, cái hu lạ lùng hương vị lạ lùng của mứt cà rốt này sẽ khiến mọi vị khách của bạn vô cùng thích thú đấy.",
+            "image": "https://cdn.tgdd.vn/Files/2016/01/02/765755/cach-lam-mut-ca-rot-cho-ngay-tet-them-may-man-5.jpg"
+          }
+          
+          
+        ],
+        "video": "https://www.youtube.com/watch?v=LWhYnRWcQxE",
+        "tips": [
+          "Nếu bạn làm nhiều cà rốt, tầm 1 kg trở lên thì nên ướp khoảng 10 tiếng hoặc để qua đêm thì mứt cà rốt sẽ ngon hơn.",
+          "Để bảo quản mứt cà rốt, trước hết, bạn rải cà rốt lên một khay lớn cho nhanh nguội, khi đã nguội hoàn toàn, bạn cho vào bịch nilong, cột miệng bịch thật chặt để không khí không lọt vào bên trong và cho vào tủ lạnh bảo quản."
+          
+        ]
+      },
+      {
+        "id": "mut-dua",
+        "name": "Mứt dừa",
+        "description": "Mứt dừa là một món ăn Tết truyền thống, rất được yêu thích và không thể thiếu trong mâm cỗ Tết miền Nam. Món mứt này mang đến hương vị béo ngọt, thơm ngon và biểu trưng cho sự may mắn, phú quý trong năm mới.",
+        "image": "https://cdn2.fptshop.com.vn/unsafe/640x0/filters:quality(100)/2024_1_21_638414600206287472_cach-lam-mut-dua-banh-te.jpg",
+        "categories": ["trang-mieng", "dac-trung-mien-nam"],
+        "difficulty": "Dễ",
+        "prepTime": "30 phút",
+        "cookTime": "1-2 tiếng",
+        "servings": "4-5 người",
+        "ingredients": [
+          {
+            "name": "Dừa non",
+            "amount": "700",
+            "unit": "gram"
+          },
+          {
+            "name": "Chanh",
+            "amount": "1/2",
+            "unit": "quả"
+          },
+          {
+            "name": "Vani",
+            "amount": "1",
+            "unit": "ống"
+          }
+
+
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": "Dừa non bạn mua cạo bỏ lớp vỏ nâu bên ngoài rồi rửa sạch, sau đó cắt miếng dừa theo chiều dọc có độ dày khoảng 0.6cm. Sau khi cắt xong thì bạn rửa lại với nước khoảng 2 - 3 lần cho thật sạch. Tiếp theo, bạn vắt 1/2 quả chanh vào dừa và rửa cùng với nước. Làm như vậy sẽ giúp dừa được trắng hơn và loại bỏ được bớt dầu của dừa. Cuối cùng bạn cho dừa vào nước sôi rồi ngâm khoảng 3 phút để loại bỏ hoàn toàn dầu dừa. Sau đó bạn cho ra rổ rồi để ráo nước.",
+            "image": "https://cdn.tgdd.vn/2022/01/CookRecipe/GalleryStep/so-che-dua-non-1.jpg"
+          },
+          {
+            "step": 2,
+            "description": "Sau khi dừa ráo nước thì bạn cho dừa vào thau nhỏ rồi thêm 1/2 muỗng cà phê muối, 350gr đường. Bạn trộn đều lên và để trong khoảng 2 - 3 tiếng cho đường tan ra hết và ngấm đều vào dừa.",
+            "image": "https://cdn.tgdd.vn/Files/2016/01/02/765755/cach-lam-mut-ca-rot-cho-ngay-tet-them-may-man-2.jpg"
+          },
+          {
+              "step": 3,
+              "description": "Bạn cho dừa vào chảo rồi sên dừa trên lửa lớn. Sau khi thấy nước đường sôi thì bạn hạ lửa vừa và tiếp tục sên. Khi nước đường cạn dần thì bạn cũng hạ lửa nhỏ dần. Đến khi nước gần cạn thì bạn cho vani vào để tạo mùi thơm cho mứt dừa.",
+              "image": "https://cdn.tgdd.vn/2022/01/CookRecipe/GalleryStep/sen-mut-17.jpg"
+          },
+          {
+            "step": 4,
+            "description": "Khi hoàn thành thì bạn đã có ngay món mứt dừa non cực kỳ thơm, dẻo ngon rồi. Khi ăn bạn sẽ cảm nhận được dừa giòn giòn, độ ngọt vừa phải rất vừa ăn.",
+            "image": "https://cdn.tgdd.vn/2022/01/CookRecipe/GalleryStep/thanh-pham-233.jpg"
+          }
+          
+          
+        ],
+        "video": "https://www.youtube.com/watch?v=VDMrIrSC3SI",
+        "tips": [
+          "Do mứt dừa non sẽ dẻo hơn mứt bình thường, bạn nên cắt dày để đạt được độ dẻo thơm đó nhé!",
+          "Sau khi làm mứt xong bạn cần cho ra khay và để thật nguội mới đem đi cất. Bước này khá đơn giản tuy nhiên chỉ chút nóng vội, việc cất mứt sớm trước khi nguội sẽ làm mứt dừa chảy nước, mất vị ngon."
+          
+        ]
+      }
 
   ]
 } 
