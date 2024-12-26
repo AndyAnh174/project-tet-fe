@@ -105,7 +105,7 @@ function TetCountdown() {
   return (
     <div className="bg-red-800/10 p-4 sm:p-8 rounded-2xl shadow-lg border-2 border-red-800/20">
       <h2 className="text-2xl sm:text-3xl font-bold text-red-800 mb-4 sm:mb-6 text-center font-dancing">
-        🎊 Đếm ngược đến Tết Giáp Thìn 2025 🎊
+        🎊 Đếm ngược đến Tết Ất Tỵ 2025 🎊
       </h2>
       <div className="grid grid-cols-4 gap-2 sm:gap-4 text-center">
         <div className="bg-gradient-to-b from-red-700 to-red-800 p-2 sm:p-6 rounded-xl shadow-lg border-2 border-yellow-500">
