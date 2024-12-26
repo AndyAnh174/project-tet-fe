@@ -3,7 +3,7 @@ import logoDSC from '../../assets/logo-dsc.png';
 
 const Footer = () => {
   return (
-    <footer className="bg-gradient-to-r from-christmas-red to-christmas-green py-4 text-white mt-8">
+    <footer className="bg-gradient-to-r from-red-600 to-red-700 py-4 text-white mt-8">
       <div className="container mx-auto px-4">
         <div className="flex flex-col items-center justify-center space-y-2">
           <p className="text-center font-dancing text-3xl flex items-center gap-2 text-yellow-300 font-bold">

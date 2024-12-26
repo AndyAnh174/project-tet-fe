@@ -16,10 +16,12 @@ const MonAn = () => {
       <div className="relative py-20 bg-gradient-to-r from-red-800 to-red-700">
         <div className="absolute inset-0 bg-[url('/bg-pattern.png')] opacity-10"></div>
         <div className="container mx-auto px-4 text-center relative">
-          <h1 className="text-4xl md:text-5xl font-dancing font-bold text-yellow-300 mb-4">
+          <h1 className="text-4xl md:text-6xl font-dancing font-bold text-yellow-300 mb-6 
+            opacity-0 animate-title will-change-transform will-change-opacity">
             Món Ngon Ngày Tết
           </h1>
-          <p className="text-yellow-100 text-lg md:text-xl max-w-2xl mx-auto">
+          <p className="text-yellow-100 text-lg md:text-2xl max-w-2xl mx-auto font-be-vietnam
+            opacity-0 animate-description will-change-transform will-change-opacity">
             Khám phá và học cách nấu các món ăn truyền thống ngày Tết
           </p>
         </div>
@@ -84,7 +86,9 @@ const MonAn = () => {
                 })}
               </div>
               <div className="p-4">
-                <h3 className="text-xl font-semibold mb-2">{recipe.name}</h3>
+                <h3 className="text-xl font-lexend font-semibold mb-2">
+                  {recipe.name}
+                </h3>
                 <p className="text-gray-600 text-sm line-clamp-2">
                   {recipe.description}
                 </p>

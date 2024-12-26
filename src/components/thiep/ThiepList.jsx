@@ -1,9 +1,12 @@
 import React from 'react';
 // Import ảnh
 import family1 from '../../assets/card/family1.png';
-import friend1 from '../../assets/card/friends1.png';
-import business1 from '../../assets/card/cv1.png';
+import friend1 from '../../assets/card/friend1.png';
+import business1 from '../../assets/card/business1.png';
 import love1 from '../../assets/card/love1.png';
+import friend2 from '../../assets/card/friend2.png';
+import business2 from '../../assets/card/business2.png';
+import family2 from '../../assets/card/family2.png';
 
 const cards = [
   {
@@ -33,7 +36,28 @@ const cards = [
     category: 'love',
     thumbnail: love1,
     template: 'love', 
-  }
+  },
+  {
+    id: 5,
+    title: 'Thiệp Tết Bạn bè',
+    category: 'friend',
+    thumbnail: friend2,
+    template: 'modern',
+  },
+  {
+    id: 6,
+    title: 'Thiệp Tết Công việc',
+    category: 'business',
+    thumbnail: business2,
+    template: 'business',
+  },
+  {
+    id: 7,
+    title: 'Thiệp Tết Gia đình',
+    category: 'family',
+    thumbnail: family2,
+    template: 'classic',
+  },
 ];
 
 const ThiepList = ({ selectedCategory, onSelectCard }) => {
