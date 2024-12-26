@@ -31,9 +31,14 @@ const MusicPlayer = () => {
   }, [volume]);
 
   useEffect(() => {
-    audioRef.current.addEventListener('ended', handleNext);
+    const handleEnded = () => {
+      const nextSong = (currentSong + 1) % musicData.playlist.length;
+      loadAndPlaySong(musicData.playlist[nextSong].url, nextSong);
+    };
+
+    audioRef.current.addEventListener('ended', handleEnded);
     return () => {
-      audioRef.current.removeEventListener('ended', handleNext);
+      audioRef.current.removeEventListener('ended', handleEnded);
       audioRef.current.pause();
     };
   }, [currentSong]);
@@ -49,20 +54,12 @@ const MusicPlayer = () => {
 
   const handleNext = () => {
     const nextSong = (currentSong + 1) % musicData.playlist.length;
-    audioRef.current.src = musicData.playlist[nextSong].url;
-    setCurrentSong(nextSong);
-    if (isPlaying) {
-      audioRef.current.play();
-    }
+    loadAndPlaySong(musicData.playlist[nextSong].url, nextSong);
   };
 
   const handlePrev = () => {
     const prevSong = (currentSong - 1 + musicData.playlist.length) % musicData.playlist.length;
-    audioRef.current.src = musicData.playlist[prevSong].url;
-    setCurrentSong(prevSong);
-    if (isPlaying) {
-      audioRef.current.play();
-    }
+    loadAndPlaySong(musicData.playlist[prevSong].url, prevSong);
   };
 
   const handleVolumeChange = (e) => {
@@ -81,6 +78,36 @@ const MusicPlayer = () => {
     const seekTime = parseFloat(e.target.value);
     audioRef.current.currentTime = seekTime;
     setCurrentTime(seekTime);
+  };
+
+  const loadAndPlaySong = async (songUrl, index) => {
+    try {
+      // Dừng bài hát hiện tại nếu đang phát
+      if (isPlaying) {
+        audioRef.current.pause();
+      }
+
+      // Cập nhật source và index ngay lập tức
+      audioRef.current.src = songUrl;
+      setCurrentSong(index);
+
+      // Phát nhạc ngay sau khi set source
+      const playPromise = audioRef.current.play();
+      
+      if (playPromise !== undefined) {
+        playPromise
+          .then(() => {
+            setIsPlaying(true);
+          })
+          .catch(error => {
+            console.error('Error playing audio:', error);
+            setIsPlaying(false);
+          });
+      }
+    } catch (error) {
+      console.error('Error loading and playing song:', error);
+      setIsPlaying(false);
+    }
   };
 
   return (
@@ -210,13 +237,7 @@ const MusicPlayer = () => {
               {musicData.playlist.map((song, index) => (
                 <button
                   key={song.id}
-                  onClick={() => {
-                    audioRef.current.src = song.url;
-                    setCurrentSong(index);
-                    if (isPlaying) {
-                      audioRef.current.play();
-                    }
-                  }}
+                  onClick={() => loadAndPlaySong(song.url, index)}
                   className={`w-full text-left p-2 hover:bg-red-50 rounded-xl flex items-center gap-3 
                     transition-all duration-300 ${
                     currentSong === index 

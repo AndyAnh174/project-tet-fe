@@ -2,38 +2,52 @@
   "playlist": [
     {
       "id": 1,
-      "title": "Xuân Đã Về",
-      "artist": "NSND Trần Hiếu",
-      "url": "/music/xuan-da-ve.mp3",
-      "thumbnail": "/images/music/xuan-da-ve.jpg"
+      "title": "Tết Đong Đầy",
+      "artist": "Kay Trần - Duck V - Nguyễn Khoa",
+      "url": "/music/tet-dong-day.mp3",
+      "thumbnail": "https://i.ytimg.com/vi/gOtfJ151ue4/maxresdefault.jpg"
     },
     {
       "id": 2,
-      "title": "Ngày Tết Quê Em", 
-      "artist": "Nhạc Xuân",
-      "url": "/music/ngay-tet-que-em.mp3",
-      "thumbnail": "/images/music/ngay-tet-que-em.jpg"
+      "title": "Đi Về Nhà", 
+      "artist": "Đen Vâu - JustaTee",
+      "url": "/music/di-ve-nha.mp3",
+      "thumbnail": "https://cdn.tuoitre.vn/zoom/700_438/471584752817336320/data/teen360/news/2020/12/19/60785/1608356505_-i-v--nh-...jpg"
     },
     {
       "id": 3,
-      "title": "Tết Đến Rồi",
-      "artist": "Nhạc Xuân",
-      "url": "/music/tet-den-roi.mp3",
-      "thumbnail": "/images/music/tet-den-roi.jpg"
+      "title": "Tết Bình An Remix",
+      "artist": "Hana Cẩm Tiên",
+      "url": "/music/tet-binh-an.mp3",
+      "thumbnail": "https://i.ytimg.com/vi/fMskPmI4tp0/maxresdefault.jpg"
     },
     {
       "id": 4,
-      "title": "Mùa Xuân Ơi",
-      "artist": "Hồng Nhung",
-      "url": "/music/mua-xuan-oi.mp3",
-      "thumbnail": "/images/music/mua-xuan-oi.jpg"
+      "title": "Chuyện Cũ Bỏ Qua",
+      "artist": "BÍCH PHƯƠNG",
+      "url": "/music/chuyen-cu-bo-qua.mp3",
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/9/4/6/e/946e9e6bb4afac7fa921d712cc18dfa2.jpg"
     },
     {
       "id": 5,
-      "title": "Ly Rượu Mừng",
-      "artist": "Nhạc Xuân",
-      "url": "/music/ly-ruou-mung.mp3",
-      "thumbnail": "/images/music/ly-ruou-mung.jpg"
+      "title": "Tết Nay Con Sẽ Về",
+      "artist": "Bùi Công Nam",
+      "url": "/music/tet-nay-con-se-ve.mp3",
+      "thumbnail": "https://thanhnien.mediacdn.vn/Uploaded/nguyenvan/2022_01_11/tncsvposter2-6388.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Làm gì phải hốt",
+      "artist": "Đen Vâu - JustaTee - Hoàng Thùy Linh",
+      "url": "/music/lam-gi-phai-hot.mp3",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/song/2020/01/13/c/8/a/c/1578906352799_640.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Ngày Tết Quê Em",
+      "artist": "Mai Lệ Quyên",
+      "url": "/music/ngay-tet-que-em.mp3",
+      "thumbnail": "https://i.ytimg.com/vi/DqG3Ct_wBMQ/maxresdefault.jpg"
     }
   ]
 } 

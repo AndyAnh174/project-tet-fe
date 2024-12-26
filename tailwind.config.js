@@ -16,24 +16,23 @@ module.exports = {
         pacifico: ['Pacifico', 'cursive'],
         lobster: ['Lobster', 'cursive'],
         greatVibes: ['Great Vibes', 'cursive'],
+        'be-vietnam': ['"Be Vietnam Pro"', 'sans-serif'],
+        'lexend': ['Lexend', 'sans-serif'],
       },
       animation: {
-        'fade-in': 'fadeIn 0.5s ease-out forwards',
-        'float': 'float 6s ease-in-out infinite',
-        wiggle: 'wiggle 1s ease-in-out infinite',
+        'title': 'slideUp 0.8s ease-out 0.2s forwards',
+        'description': 'slideUp 0.8s ease-out 0.4s forwards',
       },
       keyframes: {
-        fadeIn: {
-          '0%': { opacity: '0', transform: 'translateY(10px)' },
-          '100%': { opacity: '1', transform: 'translateY(0)' },
-        },
-        float: {
-          '0%, 100%': { transform: 'translateY(0)' },
-          '50%': { transform: 'translateY(-20px)' },
-        },
-        wiggle: {
-          '0%, 100%': { transform: 'rotate(-3deg)' },
-          '50%': { transform: 'rotate(3deg)' },
+        slideUp: {
+          '0%': { 
+            opacity: '0',
+            transform: 'translateY(20px)'
+          },
+          '100%': { 
+            opacity: '1',
+            transform: 'translateY(0)'
+          },
         },
       },
     },
