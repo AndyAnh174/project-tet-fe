@@ -18,6 +18,9 @@ import { useLocation } from 'react-router-dom';
 import LuckyDrawManagement from './pages/admin/LuckyDrawManagement';
 import MonAn from './pages/MonAn';
 import ChiTietMonAn from './pages/ChiTietMonAn';
+import MusicPlayer from './components/MusicPlayer';
+import ChatWidget from './components/ChatWidget';
+import ChatManagement from './components/admin/ChatManagement';
 
 // Tạo component wrapper để kiểm tra route và render FallingFlowers
 const FlowersWrapper = () => {
@@ -65,6 +68,14 @@ function App() {
                     </PrivateRoute>
                   } 
                 />
+                <Route 
+                  path="/admin/chats" 
+                  element={
+                    <PrivateRoute>
+                      <ChatManagement />
+                    </PrivateRoute>
+                  } 
+                />
                 
                 {/* Thêm route ẩn cho AI generator */}
                 <Route path="/tao-loi-chuc-ai" element={<AIWishGenerator />} />
@@ -72,6 +83,8 @@ function App() {
               </Routes>
             </main>
             <Footer />
+            <ChatWidget />
+            <MusicPlayer />
           </div>
         </Router>
       </ErrorBoundary>

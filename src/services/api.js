@@ -370,4 +370,54 @@ export const luckyDrawService = {
       throw error;
     }
   }
+};
+
+export const chatService = {
+  getChatHistory: async (userId) => {
+    try {
+      const response = await fetch(`${API_URL}/api/chats/${userId}`);
+      if (!response.ok) throw new Error('Failed to load chat history');
+      return response.json();
+    } catch (error) {
+      console.error('Error in getChatHistory:', error);
+      return [];
+    }
+  },
+
+  sendMessage: async (userId, data) => {
+    try {
+      const response = await fetch(`${API_URL}/api/chats/${userId}`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(data)
+      });
+      if (!response.ok) throw new Error('Failed to send message');
+      return response.json();
+    } catch (error) {
+      console.error('Error in sendMessage:', error);
+      throw error;
+    }
+  },
+
+  getUnreadChats: async () => {
+    const response = await fetch(`${API_URL}/api/chats/admin/unread`);
+    if (!response.ok) throw new Error('Failed to get unread chats');
+    return response.json();
+  },
+
+  markAsRead: async (userId) => {
+    const response = await fetch(`${API_URL}/api/chats/${userId}/read`, {
+      method: 'PUT'
+    });
+    if (!response.ok) throw new Error('Failed to mark messages as read');
+    return response.json();
+  },
+
+  getAllChats: async () => {
+    const response = await fetch(`${API_URL}/api/chats/all`);
+    if (!response.ok) throw new Error('Failed to load all chats');
+    return response.json();
+  },
 }; 

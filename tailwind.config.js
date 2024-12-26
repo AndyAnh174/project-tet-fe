@@ -12,7 +12,7 @@ module.exports = {
       },
       fontFamily: {
         'christmas': ['Mountains of Christmas', 'cursive'],  // Font chữ Giáng sinh
-        dancing: ['Dancing Script', 'cursive'],
+        'dancing': ['"Dancing Script"', 'cursive'],
         pacifico: ['Pacifico', 'cursive'],
         lobster: ['Lobster', 'cursive'],
         greatVibes: ['Great Vibes', 'cursive'],
@@ -38,5 +38,7 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require('tailwind-scrollbar'),
+  ],
 }

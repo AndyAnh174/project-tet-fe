@@ -1,0 +1,39 @@
+{
+  "playlist": [
+    {
+      "id": 1,
+      "title": "Xuân Đã Về",
+      "artist": "NSND Trần Hiếu",
+      "url": "/music/xuan-da-ve.mp3",
+      "thumbnail": "/images/music/xuan-da-ve.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Ngày Tết Quê Em", 
+      "artist": "Nhạc Xuân",
+      "url": "/music/ngay-tet-que-em.mp3",
+      "thumbnail": "/images/music/ngay-tet-que-em.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tết Đến Rồi",
+      "artist": "Nhạc Xuân",
+      "url": "/music/tet-den-roi.mp3",
+      "thumbnail": "/images/music/tet-den-roi.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mùa Xuân Ơi",
+      "artist": "Hồng Nhung",
+      "url": "/music/mua-xuan-oi.mp3",
+      "thumbnail": "/images/music/mua-xuan-oi.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Ly Rượu Mừng",
+      "artist": "Nhạc Xuân",
+      "url": "/music/ly-ruou-mung.mp3",
+      "thumbnail": "/images/music/ly-ruou-mung.jpg"
+    }
+  ]
+} 

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useAuth } from '../../contexts/AuthContext';
 import { wishService, authService } from '../../services/api';
 import { useNavigate } from 'react-router-dom';
+import { chatService } from '../../services/api';
 
 function Dashboard() {
   const { user, logout } = useAuth();
@@ -17,6 +18,7 @@ function Dashboard() {
   const [error, setError] = useState(null);
   const [viewMode, setViewMode] = useState('pending'); // 'pending' hoặc 'all'
   const [editingWish, setEditingWish] = useState(null);
+  const [unreadCount, setUnreadCount] = useState(0);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -56,6 +58,23 @@ function Dashboard() {
 
     fetchData();
   }, [viewMode]);
+
+  useEffect(() => {
+    loadUnreadCount();
+    const interval = setInterval(loadUnreadCount, 30000); // Check every 30s
+    return () => clearInterval(interval);
+  }, []);
+
+  const loadUnreadCount = async () => {
+    try {
+      const unreadChats = await chatService.getUnreadChats();
+      // Tính tổng số tin nhắn chưa đọc từ tất cả users
+      const total = Object.values(unreadChats).reduce((sum, count) => sum + count, 0);
+      setUnreadCount(total);
+    } catch (error) {
+      console.error('Error loading unread count:', error);
+    }
+  };
 
   const handleApproveWish = async (wishId) => {
     try {
@@ -241,6 +260,35 @@ function Dashboard() {
 
       {/* Main Content */}
       <div className="container mx-auto px-4 py-8">
+        <div className="mb-6 flex justify-between items-center">
+          <h1 className="text-2xl font-bold">Quản lý hệ thống</h1>
+          <div className="flex gap-4">
+            <button
+              onClick={() => navigate('/admin/lucky-draws')}
+              className="px-4 py-2 bg-red-600 text-white rounded hover:bg-red-700 
+                transition-colors flex items-center gap-2"
+            >
+              <span>🎁</span>
+              Quản lý hái lộc
+            </button>
+            <button
+              onClick={() => navigate('/admin/chats')}
+              className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 
+                transition-colors flex items-center gap-2 relative group"
+            >
+              <span>💬</span>
+              Quản lý chat
+              {unreadCount > 0 && (
+                <span className="absolute -top-2 -right-2 w-5 h-5 bg-red-500 
+                  rounded-full text-xs flex items-center justify-center
+                  transition-transform group-hover:scale-110">
+                  {unreadCount}
+                </span>
+              )}
+            </button>
+          </div>
+        </div>
+
         {/* Stats Grid */}
         <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8">
           <div 
