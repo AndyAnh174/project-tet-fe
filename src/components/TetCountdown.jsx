@@ -83,7 +83,7 @@ function TetCountdown() {
               className="text-xl sm:text-2xl md:text-4xl text-yellow-300 font-dancing mb-6 sm:mb-8"
               style={{ textShadow: '0 0 8px rgba(0,0,0,0.5)' }}
             >
-              Năm Giáp Thìn
+              Năm Ất Tỵ
             </p>
             <button
               onClick={handleFireworks}
