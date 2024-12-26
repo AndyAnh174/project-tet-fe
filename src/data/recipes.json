@@ -41,7 +41,7 @@
     {
       "id": "banh-chung",
       "name": "Bánh chưng",
-      "description": "Bánh chưng là món ăn truyền thống không thể thiếu trong dịp Tết Nguyên đán",
+      "description": "Bánh chưng tượng trưng cho đất, một trong hai yếu tố quan trọng trong triết lý 'thiên - địa' của người Việt. Việc làm bánh chưng trong dịp Tết không chỉ là một phong tục mà còn thể hiện lòng biết ơn tổ tiên và sự đoàn viên của gia đình. Mặc dù bánh chưng chủ yếu phổ biến ở miền Bắc, nhưng ngày nay, nó cũng được yêu thích và phổ biến ở nhiều vùng miền khác.",
       "image": "https://file1.dangcongsan.vn/data/0/images/2021/02/08/duongntcd/13-chung-tet-td.jpg",
       "categories": ["mon-chinh", "dac-trung-mien-bac"],
       "difficulty": "Khó",
@@ -68,30 +68,44 @@
       "steps": [
         {
           "step": 1,
-          "description": "Ngâm gạo nếp với nước và một chút muối trong 4-6 tiếng",
-          "image": "/images/recipes/steps/banh-chung-1.jpg"
+          "description": "Trước khi làm bánh chưng, bạn sẽ phải tiến hành ngâm nếp trước. Tốt nhất bạn nên ngâm nếp qua đêm, hoặc chí ít cũng phải được 4 tiếng. Bạn cũng nên ngâm nếp chung với lá riềng hoặc lá dứa để nếp có màu xanh, đồng thời cũng giúp nếp thơm hơn. Đậu xanh không vỏ cũng nên ngâm trong 4 tiếng hoặc để qua đêm.",
+          "image": "https://cdn.tgdd.vn/Files/2015/01/31/605299/cach-lam-banh-chung-cho-ngay-tet.jpg"
         },
         {
           "step": 2,
-          "description": "Ngâm đậu xanh trong 2 tiếng, sau đó hấp chín và nghiền nhuyễn",
-          "image": "/images/recipes/steps/banh-chung-2.jpg"
+          "description": "Sau khi đã ngâm nếp xong, bạn đổ nếp ra rổ và để cho ráo nước. Rắc 1 đến 2 muỗng muối vào và dùng tay trộn đều nếp. Đậu xanh cũng tiến hành tương tự, bạn đổ đậu ra cho ráo nước rồi trộn với muối và tiêu. Tiếp đến, bạn ướp thịt với muối, tiêu và đường.",
+          "image": "https://cdn.tgdd.vn/Files/2015/01/31/605299/cach-lam-banh-chung-cho-ngay-tet-1.jpg"
         },
         {
             "step": 3,
-            "description": "Ngâm đậu xanh trong 2 tiếng, sau đó hấp chín và nghiền nhuyễn",
-            "image": "/images/recipes/steps/banh-chung-2.jpg"
+            "description": "Để bánh vuông và đẹp hơn, bạn nên chuẩn bị cho mình một chiếc khung hình vuông để làm khuôn. Tiếp theo, bạn xếp 4 lá dong. Xếp lá bằng cách gấp mép dưới lên, gấp mép bên trái qua để tạo đường nếp cho lá. Tiến hành thao tác tương tự cho 3 miếng lá còn lại. Sau đó đặt 4 lá xuống dưới khuôn rồi đổ nếp lên.",
+            "image": "https://cdn.tgdd.vn/Files/2015/01/31/605299/cach-lam-banh-chung-cho-ngay-tet-2.jpg"
+        },
+        {
+            "step": 4,
+            "description": "Bạn rải đều nếp ở 4 góc khuôn và để lõm ở giữa. Cho đậu xanh vào đó rồi để thịt lên rồi lại đến đậu xanh. Tiếp theo, bạn rải nếp lên phủ lại, cố gắng làm sao để lượng nếp và đậu xanh ở trên và dưới đồng đều nhau. Cuối cùng, bạn gói bánh và dùng dây buộc lại. Bạn cũng nên nhớ không buộc quá chặt vì trong quá trình nấu trong nồi bánh sẽ còn nở ra nữa.",
+            "image": "https://cdn.tgdd.vn/Files/2015/01/31/605299/cach-lam-banh-chung-cho-ngay-tet-3.jpg"
+        },
+        {
+            "step": 5,
+            "description": "Đặt bánh vào nồi lớn và đổ nước ngập bánh. Thời gian để luộc một chiếc bánh cỡ nhỏ là khoảng 5 tiếng, với chiếc bánh lớn thì sẽ cần nhiều thời gian hơn. Còn nếu dùng nồi áp suất, thời gian luộc của bạn sẽ rút ngắn xuống bớt, chỉ còn 1 tiếng. Bạn cũng cần chuẩn bị thêm một nồi nước sôi để khi nước trong nồi luộc cạn thì châm thêm nước vào kịp thời. Khi luộc bánh được nửa thời gian thì trở bánh lại, thay nước mới. Nếu khonh bánh sẽ bị sống, không chín đều. Sau khi bánh chín thì vớt ra rồi cho ngay vào nồi nước lạnh ngâm trong 20 phút. Sau đó để bánh ráo nước rồi dùng vật hơi nặng đè lên bánh để ép nước ra, giúp bánh chưng không bị nhão và bảo quản được lâu hơn. Ép trong vòng 5 - 8 tiếng là được.",
+            "image": "https://cdn.tgdd.vn/Files/2015/01/31/605299/cach-lam-banh-chung-cho-ngay-tet-5.jpg"
           }
       ],
-      "video": "https://www.youtube.com/embed/dc8YxAvERWg",
+      "video": "https://www.youtube.com/embed/SgXqGuDMdDE?si=YyXtNgWHLaT0f9eM",
       "tips": [
         "Nên chọn gạo nếp cái hoa vàng để bánh được dẻo và thơm",
-        "Lá dong phải được rửa sạch và lau khô trước khi gói"
+        "Lá dong phải được rửa sạch và lau khô trước khi gói",
+        "Sau khi nồi bánh chưng đã sôi, bạn giảm lửa (đối với nồi luộc bếp than, bếp củi) hoặc giảm nhiệt độ (đối với nồi luộc bánh chưng bằng điện). Chỉ để lửa liu riu trong suốt quá trình luộc bánh chưng.",
+        "Xếp bánh thành các tầng chồng lên nhau ngay ngắn và chặt để bánh được giữ cố định, phòng khi nước sôi có lực đẩy khiến bánh bị xô đẩy sẽ bị vỡ.",
+        "Trước khi xếp bánh chưng vào nồi, bạn cần xếp một lớp cuống lá dong bên dưới để bánh không bị cháy và dính đáy nồi.",
+        "Trong suốt thời gian luộc bánh, bạn cần phải chú ý đến các điều sau thì bánh mới ngon và không bị biến dạng, bục nát."
       ]
     },
     {
       "id": "banh-tet",
       "name": "Bánh tét",
-      "description": "Bánh tét là món ăn truyền thống không thể thiếu trong dịp Tết Nguyên đán",
+      "description": "Bánh tét cũng tượng trưng cho đất, giống như bánh chưng, nhưng nó mang đậm nét văn hóa và phong tục của người miền Nam. Vào dịp Tết, bánh tét là món ăn không thể thiếu trong mỗi gia đình miền Nam, biểu tượng của sự sum vầy và thịnh vượng.",
       "image": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/ga-nau-bia-thumbnail-2.jpg",
       "categories": ["trang-mieng", "dac-trung-mien-nam"],
       "difficulty": "Khó",
@@ -100,42 +114,68 @@
       "servings": "2-3 người",
       "ingredients": [
         {
-          "name": "Gạo nếp",
-          "amount": "1",
+          "name": "Gạo nếp cái hoa vàng",
+          "amount": "400",
           "unit": "gram"
         },
         {
           "name": "Đậu xanh đã xát vỏ",
-          "amount": "500",
+          "amount": "200",
           "unit": "gram"
         },
         {
           "name": "Thịt lợn ba chỉ",
-          "amount": "500",
+          "amount": "100",
           "unit": "gram"
+        },
+        {
+          "name": "Lạt tre",
+          "amount": "1",
+          "unit": "bó"
+        },
+        {
+          "name": "Lá chuối",
+          "amount": "1",
+          "unit": "bó"
         }
       ],
       "steps": [
         {
           "step": 1,
-          "description": "Ngâm gạo nếp với nước và một chút muối trong 4-6 tiếng",
-          "image": "/images/recipes/steps/banh-chung-1.jpg"
+          "description": "Vo sạch gạo nếp cái hoa vàng, bỏ vào âu rồi ngâm trong nước khoảng 8 tiếng đến gạo nở mềm. Vớt gạo nếp ra rổ để ráo nước rồi cho tiếp 4g muối xóc đều. Đây là mẹo đơn giản trong việc gói bánh tét có thể giúp gạo nếp ngấm vị và bánh khi nấu chín cũng sẽ thơm hơn nữa. ",
+          "image": "https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/filters:quality(95)/https://cms-prod.s3-sgn09.fptcloud.com/cach_lam_banh_tet_2_4ae9738545.jpg"
         },
         {
           "step": 2,
-          "description": "Ngâm đậu xanh trong 2 tiếng, sau đó hấp chín và nghiền nhuyễn",
-          "image": "/images/recipes/steps/banh-chung-2.jpg"
+          "description": "Đãi sạch vỏ đậu xanh, ngâm trong âu nước khoảng 4 tiếng cho đậu xanh nở ra. Sau thời gian này, bạn vớt đổ ra rổ, vắt khô nước, bỏ tiếp 4g muối vào trong, xóc đều.",
+          "image": "https://afamilycdn.com/150157425591193600/2022/7/26/dx-16586524345821274955509-1658819102990-1658819103196837926164.jpg"
         },
         {
             "step": 3,
-            "description": "Ngâm đậu xanh trong 2 tiếng, sau đó hấp chín và nghiền nhuyễn",
-            "image": "/images/recipes/steps/banh-chung-2.jpg"
-          }
+            "description": "Ngâm lạt tre trong nước khoảng 8 tiếng cho lạt mềm. Xé nan chuối thành từng đoạn nhỏ, có chiều ngang 0,5 cm. Rửa lá chuối, tách bỏ phần nách lá, cắt lá chuối thành từng miếng dài khoảng 60cm, quấn lại thành bó nhỏ. Lưu ý, bạn nên nhẹ nhàng để không khiến lá chuối bị dập. Bắc một nồi nước có 1 muỗng cà phê muối lên bếp nấu sôi, bạn thả lá chuối vào trụng sơ qua và vớt ra ngay. Làm như thế, lá chuối sẽ mềm và khi đó cách nấu bánh tét cũng sẽ đơn giản hơn. ",
+            "image": "https://www.huongnghiepaau.com/wp-content/uploads/2023/05/ngam-day-lat-trong-nuoc.jpg"
+        },
+        {
+            "step": 4,
+            "description": "Rửa sạch, thái thịt ba chỉ thành từng miếng dài (khoảng 10 - 12 cm) có chiều ngang 2cm. Cách gói bánh tét nhân thịt ngon là đổ thịt vào trong tô to, thêm 4g hạt nêm và 1g hạt tiêu, đảo đều rồi ngâm trong khoảng 30 phút. ",
+            "image": "https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/filters:quality(95)/https://cms-prod.s3-sgn09.fptcloud.com/cach_lam_banh_tet_3_8a51954efc.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Trải lá chuối lên một mặt phẳng lớn bằng mâm, khay, mặt bàn sạch. Xếp 2 miếng lá chuối cạnh nhau (như hình tàu lá chuối ban đầu khi chưa rọc) , cho tiếp 1 miếng vào giữa. Cho 200g gạo nếp vào trong lá chuối rồi dàn mỏng 1 lớp gạo theo chiều ngang, sau đó trộn với 100g đậu xanh. Lưu ý, lớp thịt nên mỏng hơn đậu xanh và chìm sâu trong lớp gạo trắng. Đặt 1 miếng thịt ba chỉ lên trên đậu xanh dùng làm nhân, sau đó cho 1 lớp đậu xanh 100g và 1 lớp gạo nếp 200g. Bạn cần lưu ý là gạo sẽ bao phủ hết cả lớp nhân đậu xanh và thịt. Gói lớp lá chuối ở giữa để cố định hình dáng gạo, rồi lấy 2 lớp lá chuối bên ngoài quấn chặt lại và gập 2 bên mép để tạo nên một chiếc bánh hoàn chỉnh. Các thao tác cuộn lá chuối, gấp mép phải thật khéo léo để bánh đều và đẹp mắt. Dùng dây lạt cố định bánh theo chiều ngang và chiều dọc là hoàn thành cách làm bánh tét. ",
+          "image": "https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/filters:quality(95)/https://cms-prod.s3-sgn09.fptcloud.com/cach_lam_banh_tet_truyen_thong_ngay_tet_ngon_tron_vi_6_d684ce4705.png"
+        },
+        {
+          "step": 6,
+          "description": "Xếp lá chuối vào chiếc nồi lớn và lần lượt đặt bánh tét (theo chiều dọc) vào cùng. Đổ nước ngập bánh rồi bạn bắt đầu luộc liên tục trong suốt 8 tiếng cho bánh chín đều. Cách làm bánh tét đảm bảo chín đều là khi nước trong nồi cạn, hạ lửa và đun tiếp với lửa vừa. Sau quá trình này, bạn vớt bánh ra rổ, để ráo nước rồi ăn từ từ. ",
+          "image": "https://lammonngon.vn/wp-content/uploads/2024/10/Goi-banh-tet.jpg"
+        }
       ],
-      "video": "https://www.youtube.com/embed/xxxxx",
+      "video": "https://www.youtube.com/embed/et3w1WeSbYU?si=vTgWSa1mrJuT8Ux5",
       "tips": [
-        "Nên chọn gạo nếp cái hoa vàng để bánh được dẻo và thơm",
-        "Lá dong phải được rửa sạch và lau khô trước khi gói"
+        "Để giữ bánh từ 2 - 3 ngày, bạn chỉ cần đặt bánh ở nơi khô ráo, thoáng khí và không nên cho vào túi ni lông buộc chặt sẽ làm bánh bị hỏng",
+        "Bạn nên chọn mua loại nếp có hạt to, trong, có màu trắng hạt và không bị giã nát",
+        "Để cho một đòn bánh ngon thì bạn nên chọn mua mỡ và thịt có tỉ lệ không quá chênh lệch nhau, lớp mỡ dày từ 1,5 cm – 2 cm, phần thịt nạc sẽ dính chặt vào phần thịt mỡ. để bánh tét có độ ngon nhất thì bạn nên chọn phần mỡ nhiều hơn nạt một xíu nhé."
       ]
     },
     {
@@ -192,7 +232,7 @@
               "image": "https://giadinh.tv/wp-content/uploads/2019/04/cach-nau-thit-kho-trung.jpg"
             }
         ],
-        "video": "https://www.youtube.com/watch?v=U9HXscF4wz0",
+        "video": "https://www.youtube.com/embed/U9HXscF4wz0?si=GE11mrRjEuwy8CJ8",
         "tips": [
           "Nên mua thịt với phần mỡ nhiều hơn một chút khi nấu nước mỡ chảy ra quyện vào trứng với nước sốt đậm đà hơn. Thịt lợn mua phải thật tươi.",
           "Trứng vịt bạn nên chọn thật kĩ. Tránh mua những quả trứng mới khi bóc vỏ sẽ bị dính. Tránh mua trứng để lâu đã bị loãng ăn cũng sẽ không ngon. "
@@ -247,7 +287,7 @@
             "image": "https://f.hoatieu.vn/data/image/2021/02/09/bi-quyet-luoc-ga-ngon-ngay-tet-1.jpg"
           }
         ],
-        "video": "https://www.youtube.com/watch?v=lRyE71l1gtg",
+        "video": "https://www.youtube.com/embed/lRyE71l1gtg?si=QPt7f8eRIy90-4J_",
         "tips": [
           "Đặt gà lên đĩa to, tháo dây bầy ngay ngắn, tiết, lòng đặt ở dưới bụng, mỏ gà ngậm một bông hồng đỏ, hướng đầu về bát hương."
         ]
@@ -316,7 +356,7 @@
             "image": "https://ngonaz.com/wp-content/uploads/2021/01/cach-lam-cha-gio-1.jpg"
           }
         ],
-        "video": "https://www.youtube.com/watch?v=l1dXPUWeZmc",
+        "video": "https://www.youtube.com/embed/l1dXPUWeZmc?si=Nz12dvnHvmYW_inb",
         "tips": [
           "Chả giò chiên xong có thể ăn kèm với rau sống và nước mắm chua ngọt."
         ]
@@ -380,7 +420,7 @@
             "image": "https://cdn.tgdd.vn/Files/2018/01/28/1062511/cach-lam-canh-kho-qua-nhoi-thit-ngon-ngot-thanh-mat-202208261431158859.jpg"
           }
         ],
-        "video": "https://www.youtube.com/watch?v=69end7CPzkw",
+        "video": "https://www.youtube.com/embed/69end7CPzkw?si=jZhctPuB86hF2Hkj",
         "tips": [
           "Hãy cạo bỏ thật sạch phần ruột trắng vì đây là bộ phận khiến khổ qua có vị đắng nhiều nhất.",
           "Sau khi cắt đôi khổ qua, bạn nên ngâm trong nước đá lạnh, đến khi đá tan hết thì vớt ra và sơ chế tiếp sẽ giúp khổ qua bớt đắng.",
@@ -457,7 +497,7 @@
             "image": "https://s-media-cache-ak0.pinimg.com/736x/13/fb/fb/13fbfb55f9e981211ccba11a8f97904c.jpg"
           }
         ],
-        "video": "https://www.youtube.com/watch?v=mNTfg3lTmdQ",
+        "video": "https://www.youtube.com/embed/mNTfg3lTmdQ?si=mVTZaYzqO_KiSBkl",
         "tips": [
           "Sử dụng bột nếp để chúng ta làm ra được phần vỏ bánh trôi dẻo và dai.",
           "Khi đậu chín rồi thì bạn dùng muỗng tán nhuyễn như khi nấu xôi vò.",
@@ -533,7 +573,7 @@
             "image": "https://www.btaskee.com/wp-content/uploads/2024/01/canh-mang-mong-gio.jpg"
           }
         ],
-        "video": "https://www.youtube.com/watch?v=qS41E7Aqj-8",
+        "video": "https://www.youtube.com/embed/qS41E7Aqj-8?si=_WOYyf-fhvRtKjzj",
         "tips": [
           "Ngâm măng: Ngâm măng khô qua đêm để măng mềm và loại bỏ chất đắng. Sau đó, luộc măng vài lần với nước sạch để măng không còn mùi hăng và đắng.",
           "Chọn xương: Sử dụng xương heo tươi, có thể là xương ống hoặc xương sườn để nước canh ngọt và thơm hơn.",
@@ -620,7 +660,7 @@
           }
           
         ],
-        "video": "https://www.youtube.com/embed/U9HXscF4wz0",
+        "video": "https://www.youtube.com/embed/eU2d_kBK-LI?si=d5A5MfqaHQdKIJck",
         "tips": [
           "Chọn các loại rau củ tươi như cà rốt, củ cải trắng, đu đủ xanh, su hào, và hành tím. Nguyên liệu tươi sẽ giúp dưa món giòn và ngon hơn.",
           "Pha nước muối với tỷ lệ phù hợp (thường là 1 phần muối, 1 phần đường và 4 phần nước) và đun sôi. Để nước muối nguội hoàn toàn trước khi đổ vào hũ dưa món.",
@@ -677,7 +717,7 @@
               "image": "https://cdn.tgdd.vn/2021/01/CookRecipe/GalleryStep/ngam-cu-kieu-2.jpg"
             }
         ],
-        "video": "https://www.youtube.com/watch?v=rHPoimMVVpk",
+        "video": "https://www.youtube.com/embed/rHPoimMVVpk?si=7EWP0fjQVjwsRD0t",
         "tips": [
           "Để làm món kiệu ngâm thì bạn nên chọn kiệu quế với đặc điểm nhận dạng là phần thân nở, củ sẽ khá to, rễ nhiều, lá mảnh, eo kiệu thon, thắt eo rõ ràng, đuôi nối liền thân và có vị hăng nồng.",
           "Ưu tiên chọn mua những củ cà rốt có màu cam tươi sáng, lớp vỏ láng, hình dáng củ thẳng, kích cỡ không quá to mà vừa đủ và khi cầm trên tay sẽ cảm thấy chắc tay và có độ cứng vừa phải.",
@@ -735,7 +775,7 @@
               "image": "https://cdn.tgdd.vn/Files/2017/04/25/976109/cach-lam-hanh-tim-chua-ngot-an-lien-3.jpg"
             }
         ],
-        "video": "https://www.youtube.com/watch?v=RwgzzvpnT9c",
+        "video": "https://www.youtube.com/embed/RwgzzvpnT9c?si=a4Ky10wKS5HWrS4U",
         "tips": [
           "Bạn nên chọn mua hành tím Lý Sơn vì loại này cay và giòn hơn so với các loại khác nên dùng để muối hành sẽ cực kỳ ngon. Thời gian tốt nhất để mua hành là vào tháng 12 và tháng 1 vì lúc này hành vừa được thu hoạch nên rất tươi ngon.",
           "Nhưng nếu bạn không tìm mua được hành tím Lý Sơn thì vẫn có thể chọn hành tím loại khác nhưng phải chọn loại có củ to vừa phải, đều và cầm chắc tay, vỏ khô, thịt bên trong màu tím đậm, lành lặn, không trầy xước, bóp vào thấy cứng.",
@@ -818,7 +858,7 @@
               "image": "https://cdn.tgdd.vn/Files/2020/03/15/1242336/cach-lam-tre-dac-san-doc-dao-cua-binh-dinh-5.jpg"
             }
         ],
-        "video": "https://www.youtube.com/watch?v=G6L_K1ERVJA",
+        "video": "https://www.youtube.com/embed/G6L_K1ERVJA?si=B5MX4jU4RFrvSbwU",
         "tips": [
           "Tré sau khi làm để khoảng 2 - 3 ngày là ăn được, tuy nhiên tré để lâu dễ bị chua. Vì thế, bạn nên cho tré vào ngăn mát tủ lạnh sẽ được bảo quản lâu hơn.",
           "Bạn có thể ăn tré trực tiếp hoặc đánh tơi tré ra và trộn chung với dưa leo xắt nhỏ thêm một chút muối tiêu, tỏi ớt cũng sẽ rất ngon.",
@@ -897,7 +937,7 @@
               "image": "https://i1-giadinh.vnecdn.net/2021/02/04/thit2-1612414588-5011-1612414921.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=62_Cyyx8rwPZ_TOA2qWJ8w"
             }
         ],
-        "video": "https://www.youtube.com/watch?v=x1zFGYz-P4o",
+        "video": "https://www.youtube.com/embed/x1zFGYz-P4o?si=SqnUqPzb0XgDbJP1",
         "tips": [
           " Đừng nên chần sơ thịt qua nước sôi sau khi rửa, hoặc trước khi chế biến, đây là thói quen vô cùng sai lầm. Theo PGS. TS Nguyễn Duy Thịnh trên website báo dân trí đã từng chia sẻ rằng: Việc làm này sẽ làm cho lớp protein trên bề mặt thịt bị đóng vón lại (co lại), khiến các hóa chất bẩn - có trong thịt sẽ không thôi được ra bên ngoài."
           
@@ -955,7 +995,7 @@
           }
           
         ],
-        "video": "https://www.youtube.com/watch?v=tgmAjwtwb3g",
+        "video": "https://www.youtube.com/embed/tgmAjwtwb3g?si=pYMN7Zw2opFWlbo-",
         "tips": [
           "Nếu nhà bạn không có đồ hấp xôi thì bạn có thể sử dụng nồi cơm điện để đồ xôi cũng được. Trong trường hợp này bạn nên giảm ít lượng nước cốt dừa pha vào gạo nếp, và sử dụng nước dừa tươi để nấu xôi. Một cách khác thay thế là có thể dùng lò vi sóng để nấu xôi.",
           "Theo kinh nghiệm của những người chuyên làm xôi để bán thì với các loại xôi có đường, trong đó có xôi gấc, bạn nên đồ xôi 2 lần.",
@@ -1030,7 +1070,7 @@
           }
           
         ],
-        "video": "https://www.youtube.com/watch?v=mRsO7pj2V5A",
+        "video": "https://www.youtube.com/embed/mRsO7pj2V5A?si=99WEptWaNTvA8F_0",
         "tips": [
           "Để bánh cốm thêm phần đặc biệt, bạn có thể thêm dừa nạo sợi vào bên trong bánh trước khi gói hoặc pha chút hương lá sen vào nước hấp để bánh có thêm hương thơm đặc trưng.",
           "Trong lúc xào nếu thấy cốm còn lẫn những hạt rắn mà nước đã khô thì có thể chế thêm chút nước",
@@ -1081,7 +1121,7 @@
           
           
         ],
-        "video": "https://www.youtube.com/watch?v=LWhYnRWcQxE",
+        "video": "https://www.youtube.com/embed/LWhYnRWcQxE?si=GlkmhNnKwrR7fGje",
         "tips": [
           "Nếu bạn làm nhiều cà rốt, tầm 1 kg trở lên thì nên ướp khoảng 10 tiếng hoặc để qua đêm thì mứt cà rốt sẽ ngon hơn.",
           "Để bảo quản mứt cà rốt, trước hết, bạn rải cà rốt lên một khay lớn cho nhanh nguội, khi đã nguội hoàn toàn, bạn cho vào bịch nilong, cột miệng bịch thật chặt để không khí không lọt vào bên trong và cho vào tủ lạnh bảo quản."
@@ -1141,7 +1181,7 @@
           
           
         ],
-        "video": "https://www.youtube.com/watch?v=VDMrIrSC3SI",
+        "video": "https://www.youtube.com/embed/VDMrIrSC3SI?si=09B9irABhQ6vh-e7",
         "tips": [
           "Do mứt dừa non sẽ dẻo hơn mứt bình thường, bạn nên cắt dày để đạt được độ dẻo thơm đó nhé!",
           "Sau khi làm mứt xong bạn cần cho ra khay và để thật nguội mới đem đi cất. Bước này khá đơn giản tuy nhiên chỉ chút nóng vội, việc cất mứt sớm trước khi nguội sẽ làm mứt dừa chảy nước, mất vị ngon."
