@@ -142,7 +142,7 @@ const ChatWidget = () => {
 
   return (
     <ErrorBoundary fallback={<div>Có lỗi xảy ra với chat</div>}>
-      <div className={`fixed bottom-24 right-4 z-50 transform transition-transform duration-300 ${
+      <div className={`fixed bottom-[-15rem] right-4 z-50 transform transition-transform duration-300 ${
         isExpanded ? 'translate-y-[-380px]' : ''
       }`}>
         {isExpanded ? (
