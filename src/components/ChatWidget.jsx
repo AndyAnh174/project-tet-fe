@@ -142,15 +142,19 @@ const ChatWidget = () => {
 
   return (
     <ErrorBoundary fallback={<div>Có lỗi xảy ra với chat</div>}>
-      <div className={`fixed bottom-24 right-4 z-50 transform transition-transform duration-300 ${
-        isExpanded ? 'translate-y-[-380px]' : ''
-      }`}>
+      <div className={`fixed z-50 transition-all duration-300
+        ${isExpanded 
+          ? 'inset-0' 
+          : 'bottom-12 right-4 sm:bottom-24 sm:right-4'}`}>
         {isExpanded ? (
-          <div className="bg-white rounded-2xl shadow-2xl border border-red-100 
-            transition-all duration-500 w-80 h-[350px]">
+          <div className="bg-white w-full h-full sm:w-80 sm:h-[350px] 
+            shadow-2xl border border-red-100 
+            flex flex-col overflow-hidden
+            sm:fixed sm:bottom-24 sm:right-4
+            sm:rounded-2xl">
             {/* Header */}
             <div 
-              className="p-3 bg-gradient-to-r from-red-500 to-red-600 rounded-t-2xl 
+              className="p-3 bg-gradient-to-r from-red-500 to-red-600
                 flex items-center justify-between cursor-pointer"
               onClick={() => setIsExpanded(false)}
             >
@@ -164,7 +168,8 @@ const ChatWidget = () => {
             </div>
 
             {/* Messages */}
-            <div className="p-4 h-[250px] overflow-y-auto scrollbar-thin scrollbar-thumb-red-200 scrollbar-track-transparent">
+            <div className="flex-1 overflow-y-auto p-4 pb-20 sm:pb-4 
+              scrollbar-thin scrollbar-thumb-red-200 scrollbar-track-transparent">
               {messages.map(message => (
                 <div
                   key={message.id || message.created_at}
@@ -192,23 +197,25 @@ const ChatWidget = () => {
             {/* Input */}
             <form 
               onSubmit={handleSubmit}
-              className="p-4 border-t border-gray-100"
+              className="absolute bottom-0 left-0 right-0 p-4 border-t border-gray-100 bg-white"
             >
-              <div className="flex gap-2">
+              <div className="flex gap-2 max-w-full sm:max-w-none px-2 sm:px-0">
                 <input
                   type="text"
                   value={newMessage}
                   onChange={(e) => setNewMessage(e.target.value)}
                   placeholder="Nhập tin nhắn..."
                   className="flex-1 px-4 py-2 border border-gray-200 rounded-full 
-                    focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent"
+                    focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent
+                    text-sm"
                 />
                 <button
                   type="submit"
                   disabled={!newMessage.trim()}
-                  className="px-4 py-2 bg-gradient-to-r from-red-500 to-red-600 
+                  className="px-3 py-2 sm:px-4 sm:py-2 bg-gradient-to-r from-red-500 to-red-600 
                     text-white rounded-full hover:from-red-600 hover:to-red-700 
-                    transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                    transition-colors disabled:opacity-50 disabled:cursor-not-allowed
+                    text-sm"
                 >
                   Gửi
                 </button>
@@ -218,17 +225,18 @@ const ChatWidget = () => {
         ) : (
           <button
             onClick={() => setIsExpanded(true)}
-            className="w-14 h-14 rounded-full bg-gradient-to-r from-red-500 to-red-600 
+            className="w-16 h-16 sm:w-14 sm:h-14 rounded-full bg-gradient-to-r from-red-500 to-red-600 
               text-white flex items-center justify-center shadow-lg
               hover:from-red-600 hover:to-red-700 transition-all duration-300
-              transform hover:scale-110 relative group"
+              transform hover:scale-110 relative group
+              fixed right-4 bottom-16 sm:static"
           >
             {/* Icon */}
             <svg 
               xmlns="http://www.w3.org/2000/svg" 
               viewBox="0 0 24 24" 
               fill="currentColor" 
-              className="w-7 h-7"
+              className="w-10 h-10 sm:w-9 sm:h-9"
             >
               <path 
                 fillRule="evenodd" 
@@ -238,9 +246,9 @@ const ChatWidget = () => {
             </svg>
 
             {/* Pulse Effect */}
-            <span className="absolute -top-1 -right-1 w-3 h-3">
+            <span className="absolute -top-2.5 -right-2.5 w-6 h-6">
               <span className="absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75 animate-ping" />
-              <span className="relative inline-flex rounded-full h-3 w-3 bg-green-500" />
+              <span className="relative inline-flex rounded-full h-6 w-6 bg-green-500" />
             </span>
 
             {/* Tooltip */}
