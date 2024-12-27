@@ -626,6 +626,93 @@
           "Pha nước muối với tỷ lệ phù hợp (thường là 1 phần muối, 1 phần đường và 4 phần nước) và đun sôi. Để nước muối nguội hoàn toàn trước khi đổ vào hũ dưa món.",
           "Đảm bảo hũ đựng dưa món và các dụng cụ đều sạch sẽ và khô ráo để tránh dưa món bị hỏng."
         ]
+      },
+      {
+        "id": "khai-vi",
+        "name": "Lạp xưởng",
+        "description": "Lạp xưởng là một món ăn quen thuộc và ngon miệng với rất nhiều người dù là dịp lễ Tết hay ngày thường.",
+        "image": "https://afamilycdn.com/150157425591193600/2024/12/17/05bad3761569415e87fd7224377e259d-17344489179881415842103.jpeg",
+        "categories": ["khai-vi", "dac-trung-mien-nam"],
+        "difficulty": "Trung bình",
+        "prepTime": "2-4 giờ ngày",
+        "cookTime": "15-20 phút",
+        "servings": "4-6 người cho 1 kg thịt",
+        "ingredients": [
+          {
+            "name": "Thịt heo(ba chỉ hoặc nạc vai)",
+            "amount": "1",
+            "unit": "kg"
+          },
+          {
+            "name": "Mỡ heo",
+            "amount": "200-300",
+            "unit": "gram"
+          },
+          {
+            "name": "Vỏ lạp xưởng",
+            "amount": "10-15",
+            "unit": "m"
+          },
+          {
+            "name": "Đường",
+            "amount": "100-150",
+            "unit": "gram"
+          },
+          {
+            "name": "Muối",
+            "amount": "5-7",
+            "unit": "gram"
+          },
+          {
+            "name": "Tiêu",
+            "amount": "1-2",
+            "unit": "thìa cà phê"
+          },
+          {
+            "name": "Tỏi băm nhuyễn",
+            "amount": "1",
+            "unit": "củ"
+          },
+          {
+            "name": "Hạt nêm",
+            "amount": "1",
+            "unit": "thìa cà phê"
+          },
+          {
+            "name": "Bột ngọt",
+            "amount": "1",
+            "unit": "thìa cà phê"
+          },
+          {
+            "name": "Phụ gia : nước cốt dừa, rượu Mai Quế Lộ,...",
+            "amount": "",
+            "unit": ""
+          }
+        ],
+        "steps": [
+          {
+            "step": 1,
+            "description": " Sau khi rửa sạch thịt lợn, bạn dùng khăn bếp thấm khô nước. Sau đó cắt thịt lợn thành từng dải hoặc miếng rộng khoảng 1cm và dài 3-5cm để ướp. Hoặc nếu bạn muốn quá trình nhồi lạp xưởng dễ hơn thì có thể cắt thịt lợn thành dạng hạt lựu. Bạn không nên xay nhỏ thịt vì thành phẩm sẽ kém ngon hơn.",
+            "image": "https://afamilycdn.com/150157425591193600/2024/12/17/cach-lam-lap-xuong-5-1734448219337231507535.jpg"
+          },
+          {
+            "step": 2,
+            "description": "Cho nước mắm và đường vào nồi nấu sôi lên tầm 5 phút thì tắt bếp và để nguội hoàn toàn.",
+            "image": "https://nhahanglavong.com/wp-content/uploads/nuoc-mam-ngam-dua-mon.jpg"
+          },
+          {
+            "step": 3,
+            "description": "Cho rau củ vào hũ thủy tinh và đổ nước mắm ngập rau củ. Đậy kín nắp và để sau 2 ngày là có thể ăn được.",
+            "image": "https://th.bing.com/th/id/R.99752f4040fdfbb371bf36a0c8481e12?rik=5dYQEX3GZ8BGyQ&pid=ImgRaw&r=0"
+          }
+          
+        ],
+        "video": "https://www.youtube.com/watch?v=eU2d_kBK-LI",
+        "tips": [
+          "Chọn các loại rau củ tươi như cà rốt, củ cải trắng, đu đủ xanh, su hào, và hành tím. Nguyên liệu tươi sẽ giúp dưa món giòn và ngon hơn.",
+          "Pha nước muối với tỷ lệ phù hợp (thường là 1 phần muối, 1 phần đường và 4 phần nước) và đun sôi. Để nước muối nguội hoàn toàn trước khi đổ vào hũ dưa món.",
+          "Đảm bảo hũ đựng dưa món và các dụng cụ đều sạch sẽ và khô ráo để tránh dưa món bị hỏng."
+        ]
       }
 
 
